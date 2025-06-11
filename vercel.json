@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/win",
+      "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=38646"
+    },
+    {
+      "source": "/mac",
+      "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=40145"
+    },
+    {
+      "source": "/winarm",
+      "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=41817"
+    }
+  ]
+}
