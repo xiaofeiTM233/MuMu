@@ -2,6 +2,10 @@
   "version": 2,
   "rewrites": [
     {
+      "source": "/",
+      "destination": "/mumu.json"
+    },
+    {
       "source": "/win",
       "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=38646"
     },
