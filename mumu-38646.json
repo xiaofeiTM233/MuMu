@@ -1,0 +1,2915 @@
+{
+  "data": [
+    {
+      "id": "2476602b-495b-465f-ac40-a4765b49f2f8",
+      "code": "1239206",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.30",
+      "url": "//mumu.163.com/20250609/38646_1239206.html",
+      "showtime": 1749441420000,
+      "updateTime": 1749441671000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《崩坏：星穹铁道》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.30.3722"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.30.3722"
+      }
+    },
+    {
+      "id": "d03749bc-a7e8-4397-90d5-1b2cc6b1f3c8",
+      "code": "1236575",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.29",
+      "url": "//mumu.163.com/20250526/38646_1236575.html",
+      "showtime": 1748224440000,
+      "updateTime": 1748224707000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化键鼠操作体验。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《第五人格》《七日世界》《射雕》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.29.3718"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.29.3718"
+      }
+    },
+    {
+      "id": "c6206b85-52ff-46af-adcc-e34330df899f",
+      "code": "1235019",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.27",
+      "url": "//mumu.163.com/20250517/38646_1235019.html",
+      "showtime": 1747471680000,
+      "updateTime": 1747472188000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化键鼠操作体验。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《七日世界》《洛克王国：世界》《盗墓笔记：启程》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.27.3710"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.27.3710"
+      }
+    },
+    {
+      "id": "eadbb28a-f4cf-4834-b24a-ad2e8554288a",
+      "code": "1231034",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.25",
+      "url": "//mumu.163.com/20250427/38646_1231034.html",
+      "showtime": 1745726280000,
+      "updateTime": 1745726714000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《光·遇》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.25.3699"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.25.3699"
+      }
+    },
+    {
+      "id": "7d123b8a-5bdb-46f6-ae9d-d0beedee9fc1",
+      "code": "1229282",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.24",
+      "url": "//mumu.163.com/20250422/38646_1229282.html",
+      "showtime": 1745153580000,
+      "updateTime": 1745311525000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化手柄操作体验。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《明日方舟》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.24.3688"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.24.3688"
+      }
+    },
+    {
+      "id": "18c9db81-38d3-4015-9a69-f61f5d39de0b",
+      "code": "1228421",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.23",
+      "url": "//mumu.163.com/20250418/38646_1228421.html",
+      "showtime": 1744631400000,
+      "updateTime": 1744977875000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化键鼠操作体验。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《明日方舟》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.23.3684"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.23.3684"
+      }
+    },
+    {
+      "id": "98ed6df2-f9fe-4028-8b53-addc23864f60",
+      "code": "1225467",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.22",
+      "url": "//mumu.163.com/20250407/38646_1225467.html",
+      "showtime": 1743684540000,
+      "updateTime": 1744977198000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化键鼠操作体验。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《美职篮全明星》《洛克王国：世界》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.23.3684"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.23.3684"
+      }
+    },
+    {
+      "id": "ffc8a4b1-062f-4860-9f0a-a11e05b558ed",
+      "code": "1222535",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.21",
+      "url": "//mumu.163.com/20250326/38646_1222535.html",
+      "showtime": 1742973300000,
+      "updateTime": 1742994487000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《光遇》游戏内录视频无法播放问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.21.3664"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.21.3664"
+      }
+    },
+    {
+      "id": "bf8178bf-0d1c-4253-9cd2-672a5cc1e689",
+      "code": "1221474",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.20",
+      "url": "//mumu.163.com/20250322/38646_1221474.html",
+      "showtime": 1742614200000,
+      "updateTime": 1742614526000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了键鼠连击键的功能体验。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《无限暖暖》《火影忍者》《英雄没有闪》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.20.3657"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.20.3657"
+      }
+    },
+    {
+      "id": "05ac81ab-bafe-485e-9dab-117ea08f9d6c",
+      "code": "1219726",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.19",
+      "url": "//mumu.163.com/20250318/38646_1219726.html",
+      "showtime": 1742263860000,
+      "updateTime": 1742614448000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了手柄操作体验。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《空之要塞：启航》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.19.3653"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.19.3653"
+      }
+    },
+    {
+      "id": "b975d200-51be-4590-b0e6-1adc42c205bc",
+      "code": "1217271",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.17",
+      "url": "//mumu.163.com/20250308/38646_1217271.html",
+      "showtime": 1741417200000,
+      "updateTime": 1742263892000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了键鼠的键位设置功能。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《蜀山：初章》《仙剑世界》《塔防召唤师》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.17.3643"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.17.3643"
+      }
+    },
+    {
+      "id": "0527cc0b-37ff-4870-8ded-93df73c08088",
+      "code": "1213954",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.16",
+      "url": "//mumu.163.com/20250224/38646_1213954.html",
+      "showtime": 1740363000000,
+      "updateTime": 1741417323000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化键鼠操作体验。</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《无限暖暖》《巅峰极速》《我的世界：移动版》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.16.3627"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.16.3627"
+      }
+    },
+    {
+      "id": "ab758e1d-7804-4b91-98fa-b7f7919db442",
+      "code": "1208209",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.15",
+      "url": "//mumu.163.com/20250121/38646_1208209.html",
+      "showtime": 1737439860000,
+      "updateTime": 1741417483000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《全明星街球派对》《巅峰极速》《Master Duel》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.15.3625"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.15.3625"
+      }
+    },
+    {
+      "id": "99a5926e-3514-49b9-8375-9c02387d58cb",
+      "code": "1207590",
+      "title": "【MuMu模拟器安卓12】版本：4.1.14",
+      "url": "//mumu.163.com/20250117/38646_1207590.html",
+      "showtime": 1737105960000,
+      "updateTime": 1737439903000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《命运-冠位指定》《闪耀暖暖》等游戏及应用的体验</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.13.0_V4.1.14.3620_zh-Hans_1737080030.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.13.0_V4.1.14.3620_zh-Hans_1737080030.exe"
+      }
+    },
+    {
+      "id": "c532a426-0700-4673-af4d-8a44a5e19317",
+      "code": "1205351",
+      "title": "【MuMu模拟器安卓12】版本：4.1.13",
+      "url": "//mumu.163.com/20250108/38646_1205351.html",
+      "showtime": 1736342940000,
+      "updateTime": 1736343305000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《燕云十六声》《迷雾大陆》《神魔大陆》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.13.0_V4.1.13.3607_zh-Hans_1736316687.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.13.0_V4.1.13.3607_zh-Hans_1736316687.exe"
+      }
+    },
+    {
+      "id": "c3c0c136-3d5a-499d-ac4f-ff81223bd8bc",
+      "code": "1201100",
+      "title": "【MuMu模拟器安卓12】版本：4.1.12",
+      "url": "//mumu.163.com/20241219/38646_1201100.html",
+      "showtime": 1734590700000,
+      "updateTime": 1734590937000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《光遇》等游戏以及微信小程序的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.13.0_V4.1.12.3580_zh-Hans_1734574423.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.13.0_V4.1.12.3580_zh-Hans_1734574423.exe"
+      }
+    },
+    {
+      "id": "99ff493f-4413-45cf-be61-9f38f251e4b8",
+      "code": "1199574",
+      "title": "【MuMu模拟器安卓12】版本：4.1.10",
+      "url": "//mumu.163.com/20241212/38646_1199574.html",
+      "showtime": 1733974200000,
+      "updateTime": 1733974546000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《光遇》《无限暖暖》《悟空浏览器》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.13.0_V4.1.10.3552_zh-Hans_1733925762.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.13.0_V4.1.10.3552_zh-Hans_1733925762.exe"
+      }
+    },
+    {
+      "id": "8e36bb4c-304b-47e9-bd3c-1886822f2011",
+      "code": "1199431",
+      "title": "【MuMu模拟器安卓12】版本：4.1.8",
+      "url": "//mumu.163.com/20241211/38646_1199431.html",
+      "showtime": 1733390640000,
+      "updateTime": 1733909282000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《无限暖暖》游戏启动问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.8.3531_zh-Hans_1733388858.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.8.3531_zh-Hans_1733388858.exe"
+      }
+    },
+    {
+      "id": "2949da21-6f6d-472c-9b79-7b2a77c70f4f",
+      "code": "1198961",
+      "title": "【MuMu模拟器安卓12】版本：4.1.7",
+      "url": "//mumu.163.com/20241209/38646_1198961.html",
+      "showtime": 1732876140000,
+      "updateTime": 1733740954000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了手柄摇杆功能体验。</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《天下》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.7.3515_zh-Hans_1732849530.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.7.3515_zh-Hans_1732849530.exe"
+      }
+    },
+    {
+      "id": "4d390da3-b144-473b-a9ab-c3f005d1f8d1",
+      "code": "1194189",
+      "title": "【MuMu模拟器安卓12】版本：4.1.6",
+      "url": "//mumu.163.com/20241118/38646_1194189.html",
+      "showtime": 1731895320000,
+      "updateTime": 1731895510000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《一梦江湖》《潮汐守望者》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.6.3488_zh-Hans_1731735925.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.6.3488_zh-Hans_1731735925.exe"
+      }
+    },
+    {
+      "id": "7356967c-1b18-474e-b88a-80f7d0f6e67e",
+      "code": "1192561",
+      "title": "【MuMu模拟器安卓12】版本：4.1.4",
+      "url": "//mumu.163.com/20241109/38646_1192561.html",
+      "showtime": 1731140580000,
+      "updateTime": 1731141024000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了模拟器的启动速度；</span></p>\n\n<p>● 优化键鼠滑动键功能体验；</span></p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《率土之滨》《冒险岛：枫之传说》《微信》等游戏及应用的体验。</span></p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.4.3475_zh-Hans_1731062994.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.4.3475_zh-Hans_1731062994.exe"
+      }
+    },
+    {
+      "id": "0c720cd3-d5a2-4ab7-a715-9b3db327bab3",
+      "code": "1189424",
+      "title": "【MuMu模拟器安卓12】版本：4.1.2",
+      "url": "//mumu.163.com/20241025/38646_1189424.html",
+      "showtime": 1729852320000,
+      "updateTime": 1730083779000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化键鼠功能宏按键体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《巅峰极速》《如鸢》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.2.3439_zh-Hans_1729822257.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.2.3439_zh-Hans_1729822257.exe"
+      }
+    },
+    {
+      "id": "90c3cc1c-03ff-48ca-960d-6437a9754cdc",
+      "code": "1186445",
+      "title": "【MuMu模拟器安卓12】版本：4.1.0",
+      "url": "//mumu.163.com/20241013/38646_1186445.html",
+      "showtime": 1728789360000,
+      "updateTime": 1728892951000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了文件拖拽触发特定 App 功能，如把图片从 PC 拖到微信窗口，触发发送给朋友等快捷功能；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《卡通农场》《部落冲突：皇室战争》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.0.3407_zh-Hans_1728724513.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.12.0_V4.1.0.3407_zh-Hans_1728724513.exe"
+      }
+    },
+    {
+      "id": "f6fe9425-44ec-4933-a81a-a9efc5d253ef",
+      "code": "1185781",
+      "title": "【MuMu模拟器安卓12】版本：4.0.10",
+      "url": "//mumu.163.com/20241010/38646_1185781.html",
+      "showtime": 1728533160000,
+      "updateTime": 1728533509000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了登录体验，产品右上角可快速登录；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《天启行动》《元气食堂》《学习通》《钉钉》《夸克》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.11.0_V4.0.10.3381_zh-Hans_1727456024.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.11.0_V4.0.10.3381_zh-Hans_1727456024.exe"
+      }
+    },
+    {
+      "id": "912aff8f-02c4-42a0-b4d1-cf040a256ba3",
+      "code": "1181563",
+      "title": "【MuMu模拟器安卓12】版本：4.0.8",
+      "url": "//mumu.163.com/20240919/38646_1181563.html",
+      "showtime": 1726711260000,
+      "updateTime": 1728533620000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《时空猎人》《圣斗士星矢：重生2》《鸣潮》《不一样传说2》《微信》《QQ》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.11.0_V4.0.8.3350_zh-Hans_1726294330.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.11.0_V4.0.8.3350_zh-Hans_1726294330.exe"
+      }
+    },
+    {
+      "id": "787a3382-e072-4d85-b672-6488523d2470",
+      "code": "1178400",
+      "title": "【MuMu模拟器安卓12】版本：4.0.7",
+      "url": "//mumu.163.com/20240902/38646_1178400.html",
+      "showtime": 1725876600000,
+      "updateTime": 1725936889000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了小磁盘模式和磁盘管理功能；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《关于我转生变成史莱姆这档事：新世界》《不一样传说2》《创造吧！我们的星球》《阴阳师》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.11.0_V4.0.7.3335_zh-Hans_1725889035.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.11.0_V4.0.7.3335_zh-Hans_1725889035.exe"
+      }
+    },
+    {
+      "id": "092c89c7-ad7e-4625-ac30-0a19311cf373",
+      "code": "1176840",
+      "title": "【MuMu模拟器安卓12】版本：4.0.5",
+      "url": "//mumu.163.com/20240826/38646_1176840.html",
+      "showtime": 1724660940000,
+      "updateTime": 1724671939000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了ADB远程调试功能；</p>\n\n<p>● 新增了远程控制模拟器功能。</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化键鼠操作体验；</p>\n\n<p>● 优化MuMuManager开发工具；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《明日方舟》《龙脉常歌》《皇帝成长计划2》《钢岚（B服）》《炽焰天穹》《风之剑舞》《世界弹射物语》《萌猫物语》等游戏的体验；</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.11.0_V4.0.5.3284_zh-Hans_1724478647.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.11.0_V4.0.5.3284_zh-Hans_1724478647.exe"
+      }
+    },
+    {
+      "id": "83cceb46-0bfc-4da0-b0e9-94f84a916c1a",
+      "code": "1170192",
+      "title": "【MuMu模拟器安卓12】版本：4.0.0",
+      "url": "//mumu.163.com/20240729/38646_1170192.html",
+      "showtime": 1722217980000,
+      "updateTime": 1722222058000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化HyperV开启的性能，提升运行游戏的流畅性；</p>\n\n<p>● 降低运行时系统资源占用；</p>\n\n<p>● 新版MuMuManager开发工具，提供了丰富的模拟器管理和操作命令；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《新笑傲江湖》《三国：谋定天下》《我的世界》《明日方舟》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v5",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V4.0.0.3179_zh-Hans_1722018805.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V4.0.0.3179_zh-Hans_1722018805.exe"
+      }
+    },
+    {
+      "id": "39f7ac71-f095-45f9-91b1-63663ebefa7c",
+      "code": "1167201",
+      "title": "【MuMu模拟器安卓12】版本：3.9.5",
+      "url": "//mumu.163.com/20240715/38646_1167201.html",
+      "showtime": 1721030520000,
+      "updateTime": 1721030770000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 新增窗口多标签模式开关；</p>\n\n<p>● 新增模拟器运行时禁止休眠但可以锁屏；</p>\n\n<p>● 优化键鼠手柄体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.9.5.3129_all_1720844173.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.9.5.3129_all_1720844173.exe"
+      }
+    },
+    {
+      "id": "995b449b-256e-4ac0-8cbb-676fa439e9bd",
+      "code": "1166592",
+      "title": "【MuMu模拟器安卓12】版本：3.9.3",
+      "url": "//mumu.163.com/20240711/38646_1166592.html",
+      "showtime": 1720680600000,
+      "updateTime": 1720681250000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化键鼠手柄操作提示和体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《绝区零》《魔兽大作战》《洶湧海豚》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.9.3.3098_zh-Hans_1720183811.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.9.3.3098_zh-Hans_1720183811.exe"
+      }
+    },
+    {
+      "id": "639adae9-a0c0-4db0-a854-ec3919fea0dc",
+      "code": "1164258",
+      "title": "【MuMu模拟器安卓12】版本：3.9.2",
+      "url": "//mumu.163.com/20240701/38646_1164258.html",
+      "showtime": 1719836220000,
+      "updateTime": 1719836358000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 新增网络相关功能，支持wifi开关、飞行模式、网络桥接；</p>\n\n<p>● 优化了键鼠体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《学園アイドルマスター》《逆水寒》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.9.2.3069_zh-Hans_1719640967.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.9.2.3069_zh-Hans_1719640967.exe"
+      }
+    },
+    {
+      "id": "5d15a7b6-82c0-4375-860e-3e21b81e016e",
+      "code": "1162713",
+      "title": "【MuMu模拟器安卓12】版本：3.9.0",
+      "url": "//mumu.163.com/20240624/38646_1162713.html",
+      "showtime": 1719216300000,
+      "updateTime": 1719216436000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了键鼠、窗口排列等体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.9.0.3034_zh-Hans_1719024639.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.9.0.3034_zh-Hans_1719024639.exe"
+      }
+    },
+    {
+      "id": "13952c9a-7a7f-4b7a-bbac-80821f308ea1",
+      "code": "1161262",
+      "title": "【MuMu模拟器安卓12】版本：3.8.30",
+      "url": "//mumu.163.com/20240617/38646_1161262.html",
+      "showtime": 1718593320000,
+      "updateTime": 1718593483000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了键鼠等体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《天堂之圣灵》《塔瑞斯世界》《咸鱼之王》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.30.3010_zh-Hans_1718393874.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.30.3010_zh-Hans_1718393874.exe"
+      }
+    },
+    {
+      "id": "e5f41145-6571-4b8c-95cc-5c9c57fe78c0",
+      "code": "1160221",
+      "title": "【MuMu模拟器安卓12】版本：3.8.29",
+      "url": "//mumu.163.com/20240611/38646_1160221.html",
+      "showtime": 1718073180000,
+      "updateTime": 1718073320000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了意见反馈、游戏中心等体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《出发吧麦芬》《斗破苍穹：巅峰对决》《万王之王3D》《冲呀！饼干人：王国》《合金弹头：觉醒》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.29.2972_zh-Hans_1717761935.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.29.2972_zh-Hans_1717761935.exe"
+      }
+    },
+    {
+      "id": "c3314160-fcf5-4e2e-8eaf-5fdee4ce346c",
+      "code": "1158765",
+      "title": "【MuMu模拟器安卓12】版本：3.8.27",
+      "url": "//mumu.163.com/20240603/38646_1158765.html",
+      "showtime": 1717399740000,
+      "updateTime": 1717400028000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了多开器、键鼠等功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《恋与深空》《卡通农场》等游戏的体验；</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.27.2950_zh-Hans_1717167436.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.27.2950_zh-Hans_1717167436.exe"
+      }
+    },
+    {
+      "id": "cb753af0-d99c-44e6-aa29-1a5656cf0124",
+      "code": "1157560",
+      "title": "【MuMu模拟器安卓12】版本：3.8.25",
+      "url": "//mumu.163.com/20240527/38646_1157560.html",
+      "showtime": 1716815880000,
+      "updateTime": 1716816231000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《阴阳师》《重返未来：1999》《出发吧麦芬》《Filmly》《微信》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.25.2927_zh-Hans_1716572974.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.25.2927_zh-Hans_1716572974.exe"
+      }
+    },
+    {
+      "id": "8aa251a2-a748-4ac0-820d-9337459830c3",
+      "code": "1156286",
+      "title": "【MuMu模拟器安卓12】版本：3.8.24",
+      "url": "//mumu.163.com/20240521/38646_1156286.html",
+      "showtime": 1716272940000,
+      "updateTime": 1716275563000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了多开器的功能体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《金铲铲之战》《大话西游》《火影忍者》《墨墨背单词》《学園アイドルマスター》《出发吧麦芬》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.24.2908_zh-Hans_1715911900.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.24.2908_zh-Hans_1715911900.exe"
+      }
+    },
+    {
+      "id": "68942e3f-6293-4331-bc5e-409f39ed45a7",
+      "code": "1155001",
+      "title": "【MuMu模拟器安卓12】版本：3.8.22",
+      "url": "//mumu.163.com/20240514/38646_1155001.html",
+      "showtime": 1715651160000,
+      "updateTime": 1715651545000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了多开器、键鼠的功能体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《大话西游》《微信》《QQ》《不背单词》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.22.2892_zh-Hans_1715393486.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.22.2892_zh-Hans_1715393486.exe"
+      }
+    },
+    {
+      "id": "3c0b3289-e0a5-4c12-b73f-3ecb79264c14",
+      "code": "1152343",
+      "title": "【MuMu模拟器安卓12】版本：3.8.21",
+      "url": "//mumu.163.com/20240428/38646_1152343.html",
+      "showtime": 1714269720000,
+      "updateTime": 1714269955000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了操作录制按键功能；</p>\n\n<p>● 新增了固定窗口大小功能；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《第五人格》《心渊梦境》《明日方舟》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.21.2869_zh-Hans_1714151483.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.21.2869_zh-Hans_1714151483.exe"
+      }
+    },
+    {
+      "id": "aa996da2-a8de-4355-9f80-00f77edf89f2",
+      "code": "1150944",
+      "title": "【MuMu模拟器安卓12】版本：3.8.19",
+      "url": "//mumu.163.com/20240422/38646_1150944.html",
+      "showtime": 1713753420000,
+      "updateTime": 1713753878000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了重启模拟器功能；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《命运-冠位指定》《恋与深空》《碧蓝航线》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.19.2854_zh-Hans_1713526590.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.19.2854_zh-Hans_1713526590.exe"
+      }
+    },
+    {
+      "id": "6d531cb3-b073-44fd-ac61-5e0f958f3152",
+      "code": "1146954",
+      "title": "【MuMu模拟器安卓12】版本：3.8.13",
+      "url": "//mumu.163.com/20240402/38646_1146954.html",
+      "showtime": 1712049660000,
+      "updateTime": 1713873696000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了音量功能的体验；</p>\n\n<p>● 优化了文字输入功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《新天龙八部》《OmoFun》《地铁跑酷》《番茄免费小说》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v7",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.19.2854_zh-Hans_1713526590.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.8.0_V3.8.19.2854_zh-Hans_1713526590.exe"
+      }
+    },
+    {
+      "id": "5dc6ae22-ec96-40f5-9729-0cfc3b735ab0",
+      "code": "1145214",
+      "title": "【MuMu模拟器安卓12】版本：3.8.10",
+      "url": "//mumu.163.com/20240325/38646_1145214.html",
+      "showtime": 1711350480000,
+      "updateTime": 1711350725000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了强制横竖屏功能；</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了键鼠、消息中心等功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《球球大作战》《来自星尘》《节奏大师》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.10.2780_zh-Hans_1711130241.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.10.2780_zh-Hans_1711130241.exe"
+      }
+    },
+    {
+      "id": "095f1ed4-a595-43bc-8581-3b2de9126fe0",
+      "code": "1143854",
+      "title": "【MuMu模拟器安卓12】版本：3.8.9",
+      "url": "//mumu.163.com/20240318/38646_1143854.html",
+      "showtime": 1710741960000,
+      "updateTime": 1710835080000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了文档传输、键鼠等功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《明日方舟》《封神幻想世界》《剑与骑士团》《来自星尘》《OmoFun》《霓虹深渊：无限》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.9.2764_zh-Hans_1710502970.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.9.2764_zh-Hans_1710502970.exe"
+      }
+    },
+    {
+      "id": "2cd71f02-9d9e-453c-a219-addcd9da5e49",
+      "code": "1142755",
+      "title": "【MuMu模拟器安卓12】版本：3.8.7",
+      "url": "//mumu.163.com/20240311/38646_1142755.html",
+      "showtime": 1710156060000,
+      "updateTime": 1710156234000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了自定义工具栏功能，可右键点击图标进行置顶；</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了键鼠设置、音量设置等功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《来自星尘》《暗黑破坏神：不朽》《钢岚》《弓箭传说》《蛋仔派对》《重返未来：1999》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.7.2746_zh-Hans_1709896179.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.7.2746_zh-Hans_1709896179.exe"
+      }
+    },
+    {
+      "id": "6bd2cf1e-dc0c-4b18-9c8e-ec5a9d117f0e",
+      "code": "1140899",
+      "title": "【MuMu模拟器安卓12】版本：3.8.5",
+      "url": "//mumu.163.com/20240301/38646_1140899.html",
+      "showtime": 1709294820000,
+      "updateTime": 1709295136000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了音量调整快捷键；</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了键鼠功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《来自星尘》《球球大作战》《第五人格》《小红书》《Zygisk》等游戏及应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.5.2722_zh-Hans_1709273106.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.5.2722_zh-Hans_1709273106.exe"
+      }
+    },
+    {
+      "id": "06d6b302-0571-40fe-975a-7387d978a3b6",
+      "code": "1139820",
+      "title": "【MuMu模拟器安卓12】版本：3.8.4",
+      "url": "//mumu.163.com/20240226/38646_1139820.html",
+      "showtime": 1708913640000,
+      "updateTime": 1708914650000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了禁止电脑休眠的设置功能；</p>\n\n<p> [体验优化]</p>\n\n<p>● 优化了操作录制功能的体验；</p>\n\n<p>● 修复了部分用户WIFI无法自动连接异常；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《光·遇》《神州千食舫》《少年包青天》《速映影院》《火影忍者》《时空中的绘旅人》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.4.2703_zh-Hans_1708675385.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.4.2703_zh-Hans_1708675385.exe"
+      }
+    },
+    {
+      "id": "53b56898-7400-4dac-b093-a89b626cbf09",
+      "code": "1137629",
+      "title": "【MuMu模拟器安卓12】版本：3.8.1",
+      "url": "//mumu.163.com/20240207/38646_1137629.html",
+      "showtime": 1707271260000,
+      "updateTime": 1707271463000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了部分功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《金铲铲之战》《斗罗大陆：史莱克学院》《哔哩哔哩》等游戏及应用体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.1.2675_zh-Hans_1707220510.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.7.0_V3.8.1.2675_zh-Hans_1707220510.exe"
+      }
+    },
+    {
+      "id": "60aaa19c-ac31-4032-9f36-cfef2835eacc",
+      "code": "1135015",
+      "title": "【MuMu模拟器安卓12】版本：3.7.10",
+      "url": "//mumu.163.com/20240129/38646_1135015.html",
+      "showtime": 1706504640000,
+      "updateTime": 1706505413000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了操作录制方案分享功能；</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了键鼠功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《原神》《崩坏：星穹铁道》《崩坏3》《米游社》《网易云音乐》《OmoFun》等游戏及应用问题；</p>\n\n<p>● 优化了《火影忍者》《恋与深空》等游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.10.2634_zh-Hans_1706267805.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.10.2634_zh-Hans_1706267805.exe"
+      }
+    },
+    {
+      "id": "c0b66bfe-0cae-42eb-933d-11596e911646",
+      "code": "1133614",
+      "title": "【MuMu模拟器安卓12】版本：3.7.9",
+      "url": "//mumu.163.com/20240122/38646_1133614.html",
+      "showtime": 1705909200000,
+      "updateTime": 1705909714000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了主题装扮功能；</p>\n\n<p>● 新增了使用系统鼠标的设置项；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《小红书》《Magisk》等应用的体验；</p>\n\n<p>● 优化了《钢岚》《部落冲突》《王者荣耀》《红警OL手游》《少年西游2》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v5",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.9.2602_zh-Hans_1705732248.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.9.2602_zh-Hans_1705732248.exe"
+      }
+    },
+    {
+      "id": "623352c5-62d8-4c31-a10e-b39cca664cd1",
+      "code": "1131965",
+      "title": "【MuMu模拟器安卓12】版本：3.7.8",
+      "url": "//mumu.163.com/20240115/38646_1131965.html",
+      "showtime": 1705289160000,
+      "updateTime": 1705289278000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了键鼠方案分享功能；</p>\n\n<p>● 新增了自定义宏按键功能；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《战双帕弥什》《火影忍者》《西行纪 燃魂》《猫婆婆的幸福公寓》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.8.2565_zh-Hans_1705080516.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.8.2565_zh-Hans_1705080516.exe"
+      }
+    },
+    {
+      "id": "fd7ea777-bb6c-4a59-b035-d95e8a8c8a5b",
+      "code": "1130480",
+      "title": "【MuMu模拟器安卓12】版本：3.7.5",
+      "url": "//mumu.163.com/20240108/38646_1130480.html",
+      "showtime": 1704690300000,
+      "updateTime": 1704690432000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了键鼠功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《逆水寒》《少女前线2：追放》《暗黑破坏神：不朽》《交错战线》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.5.2533_zh-Hans_1704443267.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.5.2533_zh-Hans_1704443267.exe"
+      }
+    },
+    {
+      "id": "fcf7795b-f584-410f-aaaf-5b0352645188",
+      "code": "1129389",
+      "title": "【MuMu模拟器安卓12】版本：3.7.3",
+      "url": "//mumu.163.com/20240102/38646_1129389.html",
+      "showtime": 1704162840000,
+      "updateTime": 1704162988000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了键鼠功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《火炬之光：无限》《原神》《森之国度》《火影忍者》《阴阳师：百闻牌》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.3.2511_zh-Hans_1703844333.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.3.2511_zh-Hans_1703844333.exe"
+      }
+    },
+    {
+      "id": "eef655a7-e5e7-49b3-b896-1a859f49b9ed",
+      "code": "1128024",
+      "title": "【MuMu模拟器安卓12】版本：3.7.0",
+      "url": "//mumu.163.com/20231225/38646_1128024.html",
+      "showtime": 1703469780000,
+      "updateTime": 1703470039000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了拖出标签分屏、手柄操作、游戏专区等功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《I love coffee》《幻塔》等游戏的体验；</p>\n\n<p>● 优化了部分应用无法获取定位问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.0.2484_zh-Hans_1703225393.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.7.0.2484_zh-Hans_1703225393.exe"
+      }
+    },
+    {
+      "id": "1cb175cc-ffb9-4145-9957-a3f873cbb8c3",
+      "code": "1126666",
+      "title": "【MuMu模拟器安卓12】版本：3.6.12",
+      "url": "//mumu.163.com/20231218/38646_1126666.html",
+      "showtime": 1702881000000,
+      "updateTime": 1702881174000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了操作录制、游戏专区、键鼠操作等功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《哆啦A梦飞车》《真・三國無雙 M》《仙境传说：爱如初见》《奥奇传说》《第五人格》《钢岚》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.12.2454_zh-Hans_1702626494.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.12.2454_zh-Hans_1702626494.exe"
+      }
+    },
+    {
+      "id": "5f7cd5cc-084c-4885-8b69-ae8e3697a79c",
+      "code": "1123526",
+      "title": "【MuMu模拟器安卓12】版本：3.6.11",
+      "url": "//mumu.163.com/20231203/38646_1123526.html",
+      "showtime": 1702020540000,
+      "updateTime": 1702030114000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 支持App单独音量调整，开启App“后台挂机时保活运行”后生效；</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了手柄、键鼠等功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《阴阳师》《大话西游》《新天龙八部》《未定事件簿》《魔兽大作战》《心之归途》《王者荣耀》《奥奇传说》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v5",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.11.2438_zh-Hans_1702008140.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.11.2438_zh-Hans_1702008140.exe"
+      }
+    },
+    {
+      "id": "2c2a740c-5be7-49b3-9ffc-13a0cb2ad095",
+      "code": "1122142",
+      "title": "【MuMu模拟器安卓12】版本：3.6.6",
+      "url": "//mumu.163.com/20231127/38646_1122142.html",
+      "showtime": 1701055500000,
+      "updateTime": 1701752703000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 分屏窗口新增了键鼠、屏幕旋转等功能！</p>\n\n<p>● 键鼠功能新增了观察键位！</p>\n\n<p>● 支持触控屏设备上多点触控操作！</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了分屏下操作录制、窗口排列等功能的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《创造吧！我们的星球》《指尖四川麻将》《甜甜的你》《最强潮玩团》《LOTR:RisetoWar-Prior》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.6.2389_zh-Hans_1700791016.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.6.2389_zh-Hans_1700791016.exe"
+      }
+    },
+    {
+      "id": "09f7c6ce-62db-45d2-ac12-903a7d4cbe10",
+      "code": "1120839",
+      "title": "【MuMu模拟器安卓12】版本：3.6.5",
+      "url": "//mumu.163.com/20231120/38646_1120839.html",
+      "showtime": 1700448600000,
+      "updateTime": 1700449029000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 键鼠功能新增了缩放按键；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《蛋仔派对》《第七史诗》《白荆回廊》等游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.5.2362_zh-Hans_1700211608.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.5.2362_zh-Hans_1700211608.exe"
+      }
+    },
+    {
+      "id": "d483b3da-d1dd-4221-bdb1-34281df9db21",
+      "code": "1119725",
+      "title": "【MuMu模拟器安卓12】版本：3.6.4",
+      "url": "//mumu.163.com/20231113/38646_1119725.html",
+      "showtime": 1699846680000,
+      "updateTime": 1699846819000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 键鼠功能新增了滚动按键键位！</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《金铲铲之战》《抖音》的游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.4.2333_zh-Hans_1699610379.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.4.2333_zh-Hans_1699610379.exe"
+      }
+    },
+    {
+      "id": "86d1452b-d970-4f27-b3eb-6cbfd48bd2e5",
+      "code": "1118542",
+      "title": "【MuMu模拟器安卓12】版本：3.6.2",
+      "url": "//mumu.163.com/20231106/38646_1118542.html",
+      "showtime": 1699237320000,
+      "updateTime": 1699237642000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了拖出标签分屏的功能！</p>\n\n<p>● 键鼠功能新增了重力感应按键；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《全明星街球派对》《闪耀！优俊少女》《光·遇》《魔灵召唤》《公主连结Re:Dive》等游戏以及微信小程序游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.2.2305_zh-Hans_1699004384.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.6.2.2305_zh-Hans_1699004384.exe"
+      }
+    },
+    {
+      "id": "37abf076-20de-42cf-8d21-3d03a61e26ab",
+      "code": "1115734",
+      "title": "【MuMu模拟器安卓12】版本：3.5.25",
+      "url": "//mumu.163.com/20231019/38646_1115734.html",
+      "showtime": 1697719980000,
+      "updateTime": 1697720115000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《逆水寒》《金铲铲之战》《火影忍者-疾风传》等游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.5.25.2230_zh-Hans_1697696820.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.6.0_V3.5.25.2230_zh-Hans_1697696820.exe"
+      }
+    },
+    {
+      "id": "0b257bee-5b45-4981-bca2-a47ead2901d8",
+      "code": "1114719",
+      "title": "【MuMu模拟器安卓12】版本：3.5.22",
+      "url": "//mumu.163.com/20231015/38646_1114719.html",
+      "showtime": 1697352480000,
+      "updateTime": 1701752766000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 修复了部分已知问题。</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《江南百景图》《金铲铲之战》《公主连结Re:Dive》的游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.22.2201_zh-Hans_1697177117.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.22.2201_zh-Hans_1697177117.exe"
+      }
+    },
+    {
+      "id": "74ee9187-4b30-42fd-b9dc-6ae5b482c8b3",
+      "code": "1111727",
+      "title": "【MuMu模拟器安卓12】版本：3.5.21",
+      "url": "//mumu.163.com/20230925/38646_1111727.html",
+      "showtime": 1695868380000,
+      "updateTime": 1695895527000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 修复了部分已知问题。</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《蔚蓝档案》《闪耀暖暖》《微信》《UU加速器》《新石器时代》的运行体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v8",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.21.2169_zh-Hans_1695867276.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.21.2169_zh-Hans_1695867276.exe"
+      }
+    },
+    {
+      "id": "efbabd2a-f6fd-4071-b2cf-da690ea4e8e3",
+      "code": "1110301",
+      "title": "【MuMu模拟器安卓12】版本：3.5.19",
+      "url": "//mumu.163.com/20230918/38646_1110301.html",
+      "showtime": 1695004380000,
+      "updateTime": 1695004795000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了键鼠手柄的功能体验，增加【不使用方案】选项；</p>\n\n<p>● 优化了屏幕旋转、虚拟定位、应用分身的功能体验；</p>\n\n<p>● 修复了《光·遇》文字输入问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《蔚蓝档案国际服》的游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.19.2101_zh-Hans_1694743694.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.19.2101_zh-Hans_1694743694.exe"
+      }
+    },
+    {
+      "id": "31ae94cc-3c6f-4861-b633-cb13d2c60194",
+      "code": "1109039",
+      "title": "【MuMu模拟器安卓12】版本：3.5.17",
+      "url": "//mumu.163.com/20230910/38646_1109039.html",
+      "showtime": 1694335980000,
+      "updateTime": 1694336189000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了键鼠手柄、应用保活的功能体验；</p>\n\n<p>● 修复了《光·遇》内录视频播放异常的问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《小鸡模拟器》《新天龙八部》《地心守护》《三国群英传：九州归心》的游戏体验；</p>\n\n<p>● 优化了《微博》等应用体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.17.2076_zh-Hans_1694180467.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.17.2076_zh-Hans_1694180467.exe"
+      }
+    },
+    {
+      "id": "42a3c689-4faa-4c32-b999-d008dce3836c",
+      "code": "1107951",
+      "title": "【MuMu模拟器安卓12】版本：3.5.16",
+      "url": "//mumu.163.com/20230903/38646_1107951.html",
+      "showtime": 1693750740000,
+      "updateTime": 1693750869000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了键鼠操作、多开器、应用分身、虚拟定位、录屏的功能体验；</p>\n\n<p>● 修复了部分已知问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《新天龙八部》、《新石器时代》等游戏的运行体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.16.2056_zh-Hans_1693574669.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.16.2056_zh-Hans_1693574669.exe"
+      }
+    },
+    {
+      "id": "303f0571-a81d-40ee-a986-c5f2b034a7e3",
+      "code": "1106674",
+      "title": "【MuMu模拟器安卓12】版本：3.5.15",
+      "url": "//mumu.163.com/20230827/38646_1106674.html",
+      "showtime": 1693140660000,
+      "updateTime": 1693140795000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了视频录制、键鼠操作、操作录制的功能体验；</p>\n\n<p>● 修复了部分已知问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《天龙八部2：飞龙战天》、《大话西游》、《明日方舟》、《哈利波特：魔法觉醒》、《太空行动》、《金铲铲之战》等游戏的运行体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.15.2018_zh-Hans_1692976081.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.15.2018_zh-Hans_1692976081.exe"
+      }
+    },
+    {
+      "id": "891e7f6f-5e42-4620-a194-e47be4a38797",
+      "code": "1105383",
+      "title": "【MuMu模拟器安卓12】版本：3.5.12",
+      "url": "//mumu.163.com/20230819/38646_1105383.html",
+      "showtime": 1692434460000,
+      "updateTime": 1692438469000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了排列器自动排列等功能！</p>\n\n<p>[体验优化]</p>\n\n<p>● 修复了部分已知问题；</p>\n\n<p>● 优化了视频播放的体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《异尘：达米拉》《斯露德》《天龙八部2：飞龙战天》《闪耀暖暖》《太空行动》等游戏的运行体验；</p>\n\n<p>● 修复了《QQ》启动闪退的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v6",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.12.1972_zh-Hans_1692383510.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.12.1972_zh-Hans_1692383510.exe"
+      }
+    },
+    {
+      "id": "1485a14c-5cd9-435d-a820-eb992cb18962",
+      "code": "1104092",
+      "title": "【MuMu模拟器安卓12】版本：3.5.9",
+      "url": "//mumu.163.com/20230811/38646_1104092.html",
+      "showtime": 1691742240000,
+      "updateTime": 1692156536000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[兼容修复]</p>\n\n<p>● 优化了《明日方舟》《宿命回响》《Muse Dash》《天国旅立》《Phigros》的游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v5",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.9.1948_zh-Hans_1692151793.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.9.1948_zh-Hans_1692151793.exe"
+      }
+    },
+    {
+      "id": "dfd4893d-c08d-41bc-99f6-b430ec33e529",
+      "code": "1103124",
+      "title": "【MuMu模拟器安卓12】版本：3.5.6",
+      "url": "//mumu.163.com/20230806/38646_1103124.html",
+      "showtime": 1691318160000,
+      "updateTime": 1691318267000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了虚拟定位功能；</p>\n\n<p>[体验优化]</p>\n\n<p>● 提升了视频录制的音质和画面效果；</p>\n\n<p>● 修复了应用分身、保活、多开器批量磁盘清理功能的部分已知问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了QQ启动闪退的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.6.1899_zh-Hans_1691214265.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.6.1899_zh-Hans_1691214265.exe"
+      }
+    },
+    {
+      "id": "9770c061-aa43-4f0c-b212-7cee54af2b31",
+      "code": "1101996",
+      "title": "【MuMu模拟器安卓12】版本：3.5.5",
+      "url": "//mumu.163.com/20230731/38646_1101996.html",
+      "showtime": 1690962300000,
+      "updateTime": 1690984113000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了应用分身功能；</p>\n\n<p>● 新增了视频录制功能；</p>\n\n<p>● 新增了多开器批量新建性能模式、批量磁盘清理口功能；</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了窗口排列、截图、应用中心、桌面小工具的功能体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《少女前线2：追放》《蛋仔派对》《崩坏3》《阴阳师》《率土之滨》的游戏体验；</p>\n\n<p>● 优化了《抖音》等应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v7",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.5.1877_zh-Hans_1690975473.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.5.1877_zh-Hans_1690975473.exe"
+      }
+    },
+    {
+      "id": "166b2c9f-a9df-422c-8a2d-f1f13684d103",
+      "code": "1100845",
+      "title": "【MuMu模拟器安卓12】版本：3.5.3",
+      "url": "//mumu.163.com/20230726/38646_1100845.html",
+      "showtime": 1690339860000,
+      "updateTime": 1690342089000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了《逆水寒手游》《火力苏打》的游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.3.1834_zh-Hans_1690272643.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.3.1834_zh-Hans_1690272643.exe"
+      }
+    },
+    {
+      "id": "dba54eaf-ab61-46d7-901e-1f00e47cef9f",
+      "code": "1100066",
+      "title": "【MuMu模拟器安卓12】版本：3.5.2",
+      "url": "//mumu.163.com/20230721/38646_1100066.html",
+      "showtime": 1689925320000,
+      "updateTime": 1690179468000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 针对《传奇天下》《鸿图之下》《龙族幻想》《天龙八部2：飞龙在天》等游戏突破了帧率限制；</p>\n\n<p>● 优化了同步器、多开器、键鼠手柄、快捷键、截屏、扫一扫的功能体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 优化了《火影忍者：疾风传》《超凡先锋》《火力苏打》《西行纪 燃魂》的游戏体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.2.1822_zh-Hans_1689855391.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.2.1822_zh-Hans_1689855391.exe"
+      }
+    },
+    {
+      "id": "75470518-c001-4244-9c6e-fa4ca0980d73",
+      "code": "1098859",
+      "title": "【MuMu模拟器安卓12】版本：3.5.0",
+      "url": "//mumu.163.com/20230714/38646_1098859.html",
+      "showtime": 1689340140000,
+      "updateTime": 1689340277000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了截屏功能！</p>\n\n<p>[体验优化]</p>\n\n<p>● 修复了同步器、操作录制、迷你模式、多开器等功能的部分已知问题；</p>\n\n<p>● 优化了问题诊断功能的交互体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《重返帝国》部分画面显示异常的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.0.1790_zh-Hans_1689319869.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.5.0.1790_zh-Hans_1689319869.exe"
+      }
+    },
+    {
+      "id": "a465e42d-5bc6-4309-b68a-578463d9f802",
+      "code": "1097567",
+      "title": "【MuMu模拟器安卓12】版本：3.4.11",
+      "url": "//mumu.163.com/20230709/38646_1097567.html",
+      "showtime": 1688878140000,
+      "updateTime": 1689041462000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了快捷键设置功能！</p>\n\n<p>● 新增了文件传输功能！</p>\n\n<p>● 新增使用扫一扫/拍照功能时，实时截取屏幕二维码功能！</p>\n\n<p>[体验优化]&nbsp;</p>\n\n<p>● 优化了模拟器启动、键鼠手柄、迷你模式的功能体验；</p>\n\n<p>● 优化了《火力苏打》《逆水寒》的操作体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《第七史诗》《明日边境》《阿尔米娅赞歌》《有道翻译官》的部分运行问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.4.11.1750_zh-Hans_1688732957.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.4.11.1750_zh-Hans_1688732957.exe"
+      }
+    },
+    {
+      "id": "b1cf4ab4-a15b-42aa-ace2-4c89b6c3ee85",
+      "code": "1096456",
+      "title": "【MuMu模拟器安卓12】版本：3.4.10",
+      "url": "//mumu.163.com/20230703/38646_1096456.html",
+      "showtime": 1688349780000,
+      "updateTime": 1688350012000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了迷你模式！</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了操作录制、设置中心、多开器、更新、音量的功能体验；</p>\n\n<p>● 优化了《超凡先锋》的视角移动体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《神威战队》《明日边境》《狩猎时刻》《云・逆水寒》《赛尔计划》的部分运行问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.4.10.1723_zh-Hans_1688210967.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.4.10.1723_zh-Hans_1688210967.exe"
+      }
+    },
+    {
+      "id": "a37abc80-4031-4224-b4ee-7d5a3851ce5f",
+      "code": "1094425",
+      "title": "【MuMu模拟器安卓12】版本：3.4.8",
+      "url": "//mumu.163.com/20230621/38646_1094425.html",
+      "showtime": 1687323660000,
+      "updateTime": 1687323927000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了摇一摇功能！</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了多开器的功能体验；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了部分已知问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复部分用户游戏高帧率失效问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.4.8.1692_zh-Hans_1687260681.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.5.0_V3.4.8.1692_zh-Hans_1687260681.exe"
+      }
+    },
+    {
+      "id": "47e96370-4cf8-4359-9a0f-3bb02900c98b",
+      "code": "1093684",
+      "title": "【MuMu模拟器安卓12】版本：3.4.7",
+      "url": "//mumu.163.com/20230616/38646_1093684.html",
+      "showtime": 1686886260000,
+      "updateTime": 1686886461000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了磁盘清理的功能体验；</p>\n\n<p>● 优化了输出声音的音质表现；</p>\n\n<p>● 为《白夜极光》适配了120帧高帧；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《绝世仙王（应用宝渠道服）》的画面渲染异常的问题；</p>\n\n<p>● 修复了《微信》《一念逍遥》《住宅梦物语》的部分运行问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.4.7.1681_zh-Hans_1686828791.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.4.7.1681_zh-Hans_1686828791.exe"
+      }
+    },
+    {
+      "id": "34ce4821-a51d-477d-980b-ee77ac3ae020",
+      "code": "1092735",
+      "title": "【MuMu模拟器安卓12】版本：3.4.4",
+      "url": "//mumu.163.com/20230609/38646_1092735.html",
+      "showtime": 1686313800000,
+      "updateTime": 1686314004000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了操作录制的功能体验；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《超凡先锋》《白荆回廊》《微信》的部分运行问题；</p>\n\n<p>● 修复了《崩坏3》的部分画面显示异常的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.4.4.1632_zh-Hans_1686303124.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.4.4.1632_zh-Hans_1686303124.exe"
+      }
+    },
+    {
+      "id": "a3d31da8-4d99-47d4-ad27-fdee8c83b0b7",
+      "code": "1091420",
+      "title": "【MuMu模拟器安卓12】版本：3.4.2",
+      "url": "//mumu.163.com/20230601/38646_1091420.html",
+      "showtime": 1685622780000,
+      "updateTime": 1685788858000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 操作录制功能上线！</p>\n\n<p>[体验优化] </p>\n\n<p>● 优化了应用切换的效果和速度；</p>\n\n<p>[兼容修复] </p>\n\n<p>● 修复了《阴阳师》、《欢乐斗地主》的部分运行问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v7",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.4.2.1591_zh-Hans_1685707437.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.4.2.1591_zh-Hans_1685707437.exe"
+      }
+    },
+    {
+      "id": "d1c05eb5-2534-47ed-ab55-764c512f595e",
+      "code": "1090746",
+      "title": "【MuMu模拟器安卓12】版本：3.4.0",
+      "url": "//mumu.163.com/20230530/38646_1090746.html",
+      "showtime": 1685434680000,
+      "updateTime": 1685623657000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 磁盘清理功能上线！</p>\n\n<p>[体验优化]</p>\n\n<p>● 提升了模拟器的启动和退出速度；</p>\n\n<p>● 优化了帧率显示的效果，支持开启动态调帧时显示状态；</p>\n\n<p>● 优化了搜索页点击屏幕旋转没有响应的问题；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了拖拉外框后内部画面没有自适应全屏的的情况；</p>\n\n<p>● 修复了部分应用商店下载文件残留的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.4.0.1565_zh-Hans_1685364186.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.4.0.1565_zh-Hans_1685364186.exe"
+      }
+    },
+    {
+      "id": "af515c8e-ee0e-4248-a1ef-0d65fa28642e",
+      "code": "1088806",
+      "title": "【MuMu模拟器安卓12】版本：3.3.9",
+      "url": "//mumu.163.com/20230519/38646_1088806.html",
+      "showtime": 1684464660000,
+      "updateTime": 1685623683000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 老板键功能上线！</p>\n\n<p>● 优化了顶部功能、应用中心游戏详情页、设置中心、屏幕旋转、APK安装等功能的交互体验；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了多开器设置、音量调整的部分问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《纳萨力克之王》《偶像梦幻祭2》等游戏应用的运行问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.3.9.1516_zh-Hans_1684408203.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.3.9.1516_zh-Hans_1684408203.exe"
+      }
+    },
+    {
+      "id": "7867dc91-796a-4241-9f3d-13fc7ad32a40",
+      "code": "1087777",
+      "title": "【MuMu模拟器安卓12】版本：3.3.8",
+      "url": "//mumu.163.com/20230512/38646_1087777.html",
+      "showtime": 1683882540000,
+      "updateTime": 1684464669000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化键鼠手柄、多开器、设置中心、模拟器窗口、模拟器桌面、应用安装等功能体验；</p>\n\n<p>● 优化了动态调整帧率功能，支持自定义设置非活跃窗口的帧率；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了BiliBili授权登录失败的问题；</p>\n\n<p>● 优化了《哈利波特：魔法觉醒》《蛋仔派对》的流畅性；</p>\n\n<p>● 修复了《阿里云盘》《番茄免费小说》《番茄畅听》等应用的部分运行问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v5",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.3.8.1491_zh-Hans_1683793933.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.3.8.1491_zh-Hans_1683793933.exe"
+      }
+    },
+    {
+      "id": "b8713f68-c811-43b3-ad1c-7f6c4e234b16",
+      "code": "1085769",
+      "title": "【MuMu模拟器安卓12】版本：3.3.7",
+      "url": "//mumu.163.com/20230428/38646_1085769.html",
+      "showtime": 1682677080000,
+      "updateTime": 1683883157000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了施法键的功能体验；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了打字输入异常的问题；</p>\n\n<p>● 修复了准星键使用异常的问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《深空之眼》《蛋仔派对》等游戏及应用的部分运行问题；</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.3.7.1446_zh-Hans_1682676163.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.4.0_V3.3.7.1446_zh-Hans_1682676163.exe"
+      }
+    },
+    {
+      "id": "6f8c6aa2-73fd-49e2-8ad9-213056bfd699",
+      "code": "1084289",
+      "title": "【MuMu模拟器安卓12】版本：3.3.6",
+      "url": "//mumu.163.com/20230421/38646_1084289.html",
+      "showtime": 1682067180000,
+      "updateTime": 1683883302000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了记住窗口位置和大小；</p>\n\n<p>● 多开器内新增了模拟器重启；</p>\n\n<p>● 键鼠设置新增了组合键；</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了设置中心的性能设置和分辨率设置功能；</p>\n\n<p>● 优化了设置中心、模拟器桌面和鼠标点击的部分交互体验；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了在用鼠标设置准星键时，使用宏按键无法切换准星的问题；</p>\n\n<p>● 修复了应用中心内偶现应用下载按钮不显示的问题；</p>\n\n<p>● 修复了启动模拟器时偶现的画面偏移、闪白屏等问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《王牌竞速》部分场景下颜色显示异常的问题；</p>\n\n<p>● 修复了部分音频应用关闭后依然有声音的问题；</p>\n\n<p>热更修复，全版本重启后生效：</p>\n\n<p>● 修复了《崩坏3》《奇点时代》的部分运行问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.3.0_V3.3.6.1414_zh-Hans_1682048409.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.3.0_V3.3.6.1414_zh-Hans_1682048409.exe"
+      }
+    },
+    {
+      "id": "e4919820-cf28-4ed8-9c8a-32464b16718a",
+      "code": "1082970",
+      "title": "【MuMu模拟器安卓12】版本：3.3.5",
+      "url": "//mumu.163.com/20230414/38646_1082970.html",
+      "showtime": 1681437240000,
+      "updateTime": 1682067865000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 支持App调用摄像头的功能！</p>\n\n<p>[体验优化]</p>\n\n<p>● 部分游戏云方案新增了宏按键；</p>\n\n<p>● 多开器增加了adb端口展示窗口；</p>\n\n<p>● 支持应用发送快捷方式到电脑桌面；</p>\n\n<p>● 优化了滚轮效果；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了《蛋仔派对》、《明日之后》部分操作问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了《我的世界》的部分运行问题；</p>\n\n<p>● 修复了《omofun》等应用的闪退或卡住问题；</p>\n\n<p>● 优化《FGO》切场景卡顿问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v6",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuInstaller_3.1.0.1_V3.3.5.1380_zh-Hans_1681401418.exe"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://a11.gdl.netease.com/MuMuInstaller_3.1.0.1_V3.3.5.1380_zh-Hans_1681401418.exe"
+      }
+    },
+    {
+      "id": "ab4d410f-49c9-4fd7-a713-d9837db1ed42",
+      "code": "1081723",
+      "title": "【MuMu模拟器安卓12】版本：3.3.1",
+      "url": "//mumu.163.com/20230406/38646_1081723.html",
+      "showtime": 1680766560000,
+      "updateTime": 1682955753000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了消息中心的体验；</p>\n\n<p>● 取消“F1”窗口置顶快捷键，避免影响游戏操作；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复桌面在部分情况下操作鼠标右键无法弹出选项的问题；</p>\n\n<p>● 修复了部分情况下消息中心气泡显示位置偏移的问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了浏览器内图片加载失败的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "d67180f3-cd2d-4fa9-a157-558503548730",
+      "code": "1081024",
+      "title": "【MuMu模拟器安卓12】版本：3.3.0",
+      "url": "//mumu.163.com/20230331/38646_1081024.html",
+      "showtime": 1680258480000,
+      "updateTime": 1682955775000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 新增了键鼠视角移动灵敏度调整功能！</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了新版桌面的部分显示问题；</p>\n\n<p>● 修复了部分游戏微信扫码登录时游戏闪退的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "8ed1f397-8c75-49ae-920c-1c7cc0b56dd9",
+      "code": "1080181",
+      "title": "【MuMu模拟器安卓12】版本：3.2.18",
+      "url": "//mumu.163.com/20230328/38646_1080181.html",
+      "showtime": 1679989800000,
+      "updateTime": 1742782007000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● 模拟器桌面全新改版！</p>\n\n<p>● 设置中心性能优化功能上线！</p>\n\n<p>●<span style=\"color:#3485ff;\">加速服务</span>功能上线！</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了部分机器非管理员模式下启动模拟器的性能表现；</p>\n\n<p>● 优化了滚轮滚动功能，处理了部分应用无法滚动的问题；</p>\n\n<p>● 优化了键鼠手柄功能的交互提示；</p>\n\n<p>● 优化了长时间运行模拟器会出现卡顿的问题；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了部分场景无法启动模拟器的问题；</p>\n\n<p>● 修复了键鼠手柄功能的部分显示异常和导致模拟器崩溃的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v10",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "80bcd147-6ea4-491e-87ae-02912d9b0487",
+      "code": "1079292",
+      "title": "【MuMu模拟器安卓12】版本：3.2.15",
+      "url": "//mumu.163.com/20230323/38646_1079292.html",
+      "showtime": 1679537700000,
+      "updateTime": 1685096904000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化按键提示显示，新增透明度自定义、按键说明；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了拖拽窗口会导致顶部栏闪烁；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复了部分游戏/应用运行时网络异常的问题；</p>\n\n<p>● 修复了《无期迷途》120帧不生效的问题；</p>\n\n<p>● 修复了《狂野飙车9：竞速传奇》《Keep》《酷狗大字版》的部分运行问题；</p>\n\n<p>热更修复，全版本重启后生效：</p>\n\n<p>● 修复了GooglePlay搜索不到游戏或显示设备不兼容的问题；</p>\n\n<p>● 修复了《应用宝》 的部分运行问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v7",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "ed346587-764d-40ae-b765-33937a441efc",
+      "code": "1078202",
+      "title": "【MuMu模拟器安卓12】版本：3.2.14",
+      "url": "//mumu.163.com/20230316/38646_1078202.html",
+      "showtime": 1678936920000,
+      "updateTime": 1742542659000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● <span style=\"color:#3485ff;\">手柄功能</span>上线！</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了键鼠方案管理的部分交互操作；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了部分按键无效或效果异常的问题；</p>\n\n<p>● 修复了标签页切换至首页时，画面未正常切换的问题。</p>\n\n<p>&nbsp;</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v9",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "c142b5f5-d081-4328-8102-857b6ee3e0c9",
+      "code": "1076557",
+      "title": "【MuMu模拟器安卓12】版本：3.2.13",
+      "url": "//mumu.163.com/20230306/38646_1076557.html",
+      "showtime": 1678068480000,
+      "updateTime": 1679019212000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了预设分辨率的规则；</p>\n\n<p>● 分辨率DPI最低限制由220调整为10；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了部分情况下更新模拟器时提示停止工作的问题；</p>\n\n<p>● 修复了更新模拟器后任务栏快捷方式消失的问题；</p>\n\n<p>● 修复了打开文件应用后自动切换回首页的问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 《召唤与合成2》《王牌竞速》的部分运行问题；</p>\n\n<p>● 热更修复了《恋与制作人》的部分运行问题。</p>\n\n<p>&nbsp;</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "41a71e5c-86e9-497c-bef6-5ae0eb154b09",
+      "code": "1076003",
+      "title": "【MuMu模拟器安卓12】版本：3.2.12",
+      "url": "//mumu.163.com/20230301/38646_1076003.html",
+      "showtime": 1677661620000,
+      "updateTime": 1679019267000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 支持了从安卓端复制到win端的剪切板功能；</p>\n\n<p>● 优化了设置中心的性能设置规则；</p>\n\n<p>● 优化了对adb端口连接的支持；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了键鼠云方案错误导致模拟器崩溃的问题；</p>\n\n<p>● 修复了应用卸载后的标签栏残留问题；</p>\n\n<p>● 修复了安装应用时获取不到图标和名称的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "86081f31-78ac-4a15-9b3e-531610e5ecf1",
+      "code": "1075693",
+      "title": "【MuMu模拟器安卓12】版本：3.2.11",
+      "url": "//mumu.163.com/20230228/38646_1075693.html",
+      "showtime": 1677575340000,
+      "updateTime": 1679019357000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 优化了Ctrl+滚轮缩放的操作体验；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了偶现同步器同步时外框颜色没有显示的问题；</p>\n\n<p>● 修复了端口占用导致模拟器启动失败的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "76f74bdd-7c2e-4b55-8b49-7e456a761932",
+      "code": "1075714",
+      "title": "【MuMu模拟器安卓12】版本：3.2.9",
+      "url": "//mumu.163.com/20230228/38646_1075714.html",
+      "showtime": 1677232560000,
+      "updateTime": 1680177219000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p>● <span style=\"color:#00ccff;\">同步器</span>功能上线，满足多窗口同步操作；</p>\n\n<p>[体验优化]</p>\n\n<p>● 优化了Vulkan高性能模式是否可选的规则；</p>\n\n<p>● 优化了显卡渲染模式的预设规则；</p>\n\n<p>● 优化了《光·遇》的轮盘操作体验；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了部分情况下鼠标点击位置不准确的问题。</p>\n\n<p>&nbsp;</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v6",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "94703c83-aaf4-44b5-9b62-005289396273",
+      "code": "1074352",
+      "title": "【MuMu模拟器安卓12】版本：3.2.6",
+      "url": "//mumu.163.com/20230221/38646_1074352.html",
+      "showtime": 1676974320000,
+      "updateTime": 1679019386000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]&nbsp;</p>\n\n<p>● 问题诊断全新上线，自动诊断常见问题；</p>\n\n<p>[体验优化]&nbsp;</p>\n\n<p>● 优化开启Root权限功能，ADB默认具备Root权限；</p>\n\n<p>● 优化部分弹窗在屏幕边缘的位置显示；</p>\n\n<p>● 修复了《阴阳师》狩猎战·鬼王来袭地图、地域鬼王地图界面无法拖动的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "ba08d623-98e5-4b74-a7b2-1c2506491cdc",
+      "code": "1074158",
+      "title": "【MuMu模拟器安卓12】版本：3.2.5",
+      "url": "//mumu.163.com/20230220/38646_1074158.html",
+      "showtime": 1676901360000,
+      "updateTime": 1679019429000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 支持了部分游戏最高帧率突破至240帧；</p>\n\n<p>● 支持了任务栏标题显示多开模拟器自定义名称；</p>\n\n<p>● 优化了adb端口固定的功能；</p>\n\n<p>● 优化了记住是否隐藏键鼠按键显示的交互体验；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了SVC进程残留导致启动卡住的问题；</p>\n\n<p>● 修复了偶现更新模拟器时卡住的问题。</p>\n\n<p>&nbsp;</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "5ffad837-028f-46b6-8cf2-adb00233e532",
+      "code": "1074157",
+      "title": "【MuMu模拟器安卓12】版本：3.2.4",
+      "url": "//mumu.163.com/20230220/38646_1074157.html",
+      "showtime": 1676641920000,
+      "updateTime": 1679019517000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 支持了部分游戏最高帧率突破至240帧；</p>\n\n<p>● 支持了任务栏标题显示多开模拟器自定义名称；</p>\n\n<p>● 优化了adb端口固定的功能；</p>\n\n<p>● 优化了记住是否隐藏键鼠按键显示的交互体验；</p>\n\n<p>[功能异常修复]</p>\n\n<p>● 修复了SVC进程残留导致启动卡住的问题；</p>\n\n<p>● 修复了偶现更新模拟器时卡住的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "626d74e7-f899-4b5f-a95c-77d56bc8792e",
+      "code": "1073616",
+      "title": "【MuMu模拟器安卓12】版本：3.2.3",
+      "url": "//mumu.163.com/20230216/38646_1073616.html",
+      "showtime": 1676536680000,
+      "updateTime": 1679019464000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p>● 支持模拟器左上角显示自定义名称；</p>\n\n<p>● 优化多开器批量操作的交互体验。</p>\n\n<p>&nbsp;</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "e604f42a-80ed-4f17-9ace-5ead95f0401c",
+      "code": "1073422",
+      "title": "【MuMu模拟器安卓12】版本：3.2.2",
+      "url": "//mumu.163.com/20230216/38646_1073422.html",
+      "showtime": 1676470020000,
+      "updateTime": 1679019563000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[功能异常修复]</p>\n\n<p>● 修复键鼠功能导致模拟器崩溃问题；</p>\n\n<p>● 修复Win7上模拟器启动失败问题；</p>\n\n<p>● 修复了用管理员权限运行模拟器，启动加载慢的问题；</p>\n\n<p>● 修复了不支持Vulkan设备启动失败问题；</p>\n\n<p>● 修复用MuMuManager连接adb时无法进行多开操作的问题；</p>\n\n<p>[兼容修复]</p>\n\n<p>● 修复OPPO商店无法安装应用的问题；</p>\n\n<p>● 修复了TapTap无法安装应用的问题；</p>\n\n<p>● 修复华为应用市场无法安装HMS Core的问题；</p>\n\n<p>● 修复UU加速器安装应用时闪退、直接在Android系统文件夹里安装会报错的问题；</p>\n\n<p>● 修复APKSSR安装应用时闪退的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "52d9861f-5d6b-49d2-aa98-a4ea3c206eeb",
+      "code": "1073421",
+      "title": "【MuMu模拟器安卓12】版本：3.2.1",
+      "url": "//mumu.163.com/20230216/38646_1073421.html",
+      "showtime": 1676469840000,
+      "updateTime": 1676538279000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[新]</p>\n\n<p>● 全新UI交互，大屏沉浸体验游戏</p>\n\n<p>● 功能模块重新设计，化繁为简</p>\n\n<p>● 全面适配高分屏，视觉体验升级</p>\n\n<p>● 适配Windows窗口特性，支持贴靠，对齐布局</p>\n\n<p>[稳]</p>\n\n<p>● 搭载安卓12内核，拒绝“系统版本太低”</p>\n\n<p>● 多开功能重新设计，性能大幅提升</p>\n\n<p>● Vulkan高性能模式，相比传统模拟器性能提升25%</p>\n\n<p>[快]</p>\n\n<p>● 启动速度大幅提升</p>\n\n<p>● 高帧率支持提升到240帧</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    }
+  ],
+  "version": "1239206"
+}

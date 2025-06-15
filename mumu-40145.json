@@ -1,0 +1,983 @@
+{
+  "data": [
+    {
+      "id": "b8d74d09-1ec1-40ac-b70e-103c70122f2f",
+      "code": "1238750",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.6.8",
+      "url": "//mumu.163.com/20250605/40145_1238750.html",
+      "showtime": 1749120000000,
+      "updateTime": 1749120348000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuMac_1.6.8_gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuMac_1.6.8_gw-update.dmg"
+      }
+    },
+    {
+      "id": "de26c862-2f87-4110-af1b-492b16042bd8",
+      "code": "1234394",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.6.7",
+      "url": "//mumu.163.com/20250515/40145_1234394.html",
+      "showtime": 1747283400000,
+      "updateTime": 1747283600000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 优化了《天涯明月刀》、《마비노기 모바일》的游戏体验。</p>\n\n<p><span class=\"desc_dot\">●</span> 优化了《京东秒送商家》、《Snapchat》的应用体验。</p>\n\n<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.6.7-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.6.7-gw-update.dmg"
+      }
+    },
+    {
+      "id": "1814730d-ab52-4a0a-a181-cbd416ed91b7",
+      "code": "1232090",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.6.6",
+      "url": "//mumu.163.com/20250430/40145_1232090.html",
+      "showtime": 1746003300000,
+      "updateTime": 1746003517000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 优化了《抖音》的应用体验。</p>\n\n<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.6.6-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.6.6-gw-update.dmg"
+      }
+    },
+    {
+      "id": "768b5ec4-784c-40cf-828f-38ae327a410f",
+      "code": "1221475",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.5.17",
+      "url": "//mumu.163.com/20250322/40145_1221475.html",
+      "showtime": 1742614500000,
+      "updateTime": 1742614713000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 优化了《火影忍者》、《剑中》的游戏体验。</p>\n\n<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.17-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.17-gw-update.dmg"
+      }
+    },
+    {
+      "id": "9d216241-a9e2-48d3-9f42-d8413022c48a",
+      "code": "1219724",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.5.16",
+      "url": "//mumu.163.com/20250318/40145_1219724.html",
+      "showtime": 1742263620000,
+      "updateTime": 1742263770000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span>优化了《金铲铲之战》、《江南百景图》、《无尽冬日》、《命运-冠位指定》、《三国：谋定天下》的游戏体验。</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《超级链接》、《599比分》的应用体验。</p>\n\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.16-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.16-gw-update.dmg"
+      }
+    },
+    {
+      "id": "3c11246a-e505-48e1-8216-593ea3037696",
+      "code": "1215851",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.5.15",
+      "url": "//mumu.163.com/20250303/40145_1215851.html",
+      "showtime": 1741001520000,
+      "updateTime": 1742263632000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span>优化了《逆水寒》的游戏体验。</p>\n\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.15-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.15-gw-update.dmg"
+      }
+    },
+    {
+      "id": "9dbc8491-62a5-405c-9a31-fe5450c0e19a",
+      "code": "1214633",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.5.14",
+      "url": "//mumu.163.com/20250226/40145_1214633.html",
+      "showtime": 1740550200000,
+      "updateTime": 1742543640000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 优化了《逆水寒》、《烟雨江湖》、《燕云十六声》的游戏体验。</p>\n\n<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.14-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.14-gw-update.dmg"
+      }
+    },
+    {
+      "id": "98d00227-2b8e-4385-9b7a-1b2710fee1f6",
+      "code": "1208228",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.5.13",
+      "url": "//mumu.163.com/20250121/40145_1208228.html",
+      "showtime": 1737375000000,
+      "updateTime": 1742543515000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 优化了《神域苍穹》的游戏体验。</p>\n<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.13-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.13-gw-update.dmg"
+      }
+    },
+    {
+      "id": "d8bbc7ed-218b-4866-8fb1-1fd89ddd2c67",
+      "code": "1208220",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.5.12",
+      "url": "//mumu.163.com/20250121/40145_1208220.html",
+      "showtime": 1736170800000,
+      "updateTime": 1737441503000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>●修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.12.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.12.dmg"
+      }
+    },
+    {
+      "id": "25b1af27-3120-4f21-9b61-33e77969ab5e",
+      "code": "1198964",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.5.9",
+      "url": "//mumu.163.com/20241209/40145_1198964.html",
+      "showtime": 1733741460000,
+      "updateTime": 1733741681000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>●优化了《无限暖暖》的游戏体验。</p>\n\n<p>●修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.9.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.9.dmg"
+      }
+    },
+    {
+      "id": "626a675b-c494-4c2a-9b4e-571f7223f9f8",
+      "code": "1195374",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.5.8",
+      "url": "//mumu.163.com/20241122/40145_1195374.html",
+      "showtime": 1732244100000,
+      "updateTime": 1732244491000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 优化了安卓设备在M4芯片设备上的运行体验。</p>\n\n<p>● 优化了横竖屏切换时APP图标的显示效果。</p>\n\n<p>● 优化了《Pokemon TCG Pocket》的游戏体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.8.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.8.dmg"
+      }
+    },
+    {
+      "id": "8e21c1c1-6593-4585-acfa-e5d8a09c3865",
+      "code": "1189413",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.5.4",
+      "url": "//mumu.163.com/20241025/40145_1189413.html",
+      "showtime": 1729851660000,
+      "updateTime": 1729851866000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了“开发者”功能！通过顶部菜单栏的“开发者”，可以便捷地管理安卓设备的网络连接和飞行模式状态，并快速打开ADB、命令行工具和开发者设置。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.4.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.4.dmg"
+      }
+    },
+    {
+      "id": "d2634daa-49a8-471d-bfba-6ae9d738e170",
+      "code": "1186813",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.5.3",
+      "url": "//mumu.163.com/20241015/40145_1186813.html",
+      "showtime": 1728959820000,
+      "updateTime": 1728960000000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● <span style=\" color:#0c0c0c;\">优化了《大话西游》、《擎天战机》、《战斗法则》的游戏体验。</span></p>\n\n<p>● 优化了键鼠手柄的功能体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.3.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.3.dmg"
+      }
+    },
+    {
+      "id": "ea672fcc-aa35-463f-9d0c-b61f1de49a01",
+      "code": "1181771",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.5.1",
+      "url": "//mumu.163.com/20240919/40145_1181771.html",
+      "showtime": 1726747800000,
+      "updateTime": 1726748001000,
+      "author": "2024-09-19",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>本次更新完成后需重新登录账号。</p>\n\n<p>● 新增了对飞行模式、断网等功能的支持！在安卓设备桌面下拉通知栏即可体验。</p>\n\n<p>● 优化了《暗黑破坏神：不朽》、《龙族：卡塞尔之门》的游戏体验。</p>\n\n<p>● 优化了《小红书》、《Magisk》的应用体验。</p>\n\n<p>● 提升了系统稳定性和性能。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.1.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.1.dmg"
+      }
+    },
+    {
+      "id": "ff2f30a3-fa97-431d-848c-b5c7da3415fc",
+      "code": "1178448",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.46",
+      "url": "//mumu.163.com/20240902/40145_1178448.html",
+      "showtime": 1725276960000,
+      "updateTime": 1725277150000,
+      "author": "2024-08-30",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了手柄震动功能！可在《全明星街球派对》等游戏中体验震动效果。</p>\n\n<p>● 优化了《原神》、《塔瑞斯世界》、《QQ华夏》的游戏体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.46.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.46.dmg"
+      }
+    },
+    {
+      "id": "c3b684c5-60f6-49b3-a556-36a85536807b",
+      "code": "1173441",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.42",
+      "url": "//mumu.163.com/20240812/40145_1173441.html",
+      "showtime": 1723394220000,
+      "updateTime": 1723394412000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 优化了《崩坏：星穹铁道》、《心动小镇》、《坦克争锋》的游戏体验。</p>\n\n<p>● 优化了键鼠手柄的功能体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.42.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.42.dmg"
+      }
+    },
+    {
+      "id": "806a8716-fb4c-4127-9d02-277d863fd114",
+      "code": "1172964",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.40",
+      "url": "//mumu.163.com/20240808/40145_1172964.html",
+      "showtime": 1723106580000,
+      "updateTime": 1723106797000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了刘海屏设置功能！可在“设置-显示-刘海屏”按需选择样式使用。</p>\n\n<p>● 优化了《逆水寒》的游戏体验。</p>\n\n<p>● 优化了键鼠手柄的功能体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.40.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.40.dmg"
+      }
+    },
+    {
+      "id": "aa7978c4-7d13-4ed5-9072-dcc14c4b3098",
+      "code": "1166791",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.38",
+      "url": "//mumu.163.com/20240712/40145_1166791.html",
+      "showtime": 1720756680000,
+      "updateTime": 1720756829000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了GPU型号设置功能！可在“设置-设备-GPU型号”按需选择“高配/中配/低配/自定义GPU”使用。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.38.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.38.dmg"
+      }
+    },
+    {
+      "id": "643db8e7-a91d-475e-ad38-38bfa60692f6",
+      "code": "1164267",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.36",
+      "url": "//mumu.163.com/20240701/40145_1164267.html",
+      "showtime": 1719841260000,
+      "updateTime": 1719841362000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了设备存储目录设置功能！打开”设置-全局-设备存储目录“修改，满足自定义数据存储位置、在不同Mac设备插入移动硬盘运行安卓设备等需求！</p>\n\n<p>● 优化了APK安装提示。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.36.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.36.dmg"
+      }
+    },
+    {
+      "id": "b486ba34-5003-4227-b155-6508b98be31f",
+      "code": "1162092",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.34",
+      "url": "//mumu.163.com/20240620/40145_1162092.html",
+      "showtime": 1718849040000,
+      "updateTime": 1718849172000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 优化了《三国：谋定天下》的游戏体验。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.34.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.34.dmg"
+      }
+    },
+    {
+      "id": "10fed89f-2dd4-443f-9e8b-6804c7208eb6",
+      "code": "1161131",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.31",
+      "url": "//mumu.163.com/20240614/40145_1161131.html",
+      "showtime": 1718370900000,
+      "updateTime": 1718371041000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 优化了《塔瑞斯世界》、《剑网3无界》的游戏体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.31.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.31.dmg"
+      }
+    },
+    {
+      "id": "e50002da-76e6-42dc-8ea2-4484ed2f550f",
+      "code": "1159930",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.29",
+      "url": "//mumu.163.com/20240607/40145_1159930.html",
+      "showtime": 1717756500000,
+      "updateTime": 1717757091000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 优化了《原神》的游戏体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.29.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.29.dmg"
+      }
+    },
+    {
+      "id": "4dfbae4d-e2ef-45f8-a7bd-83a68194d067",
+      "code": "1158601",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.28",
+      "url": "//mumu.163.com/20240602/40145_1158601.html",
+      "showtime": 1717323900000,
+      "updateTime": 1717324069000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了命令行工具功能，可从”MuMu模拟器Pro-打开命令行工具“进入体验。若需功能教程，可点击“帮助-开发者帮助”查看。</p>\n\n<p>● 优化了《出发吧麦芬》的游戏体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.28.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.28.dmg"
+      }
+    },
+    {
+      "id": "92580df0-6d3b-478c-b92c-8d7aa8eb467f",
+      "code": "1157998",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.25",
+      "url": "//mumu.163.com/20240529/40145_1157998.html",
+      "showtime": 1716971220000,
+      "updateTime": 1716971359000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.25.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.25.dmg"
+      }
+    },
+    {
+      "id": "e17216e4-49c8-4207-bfae-a54eca411203",
+      "code": "1155019",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.22",
+      "url": "//mumu.163.com/20240514/40145_1155019.html",
+      "showtime": 1715654100000,
+      "updateTime": 1715654319000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了键鼠手柄自定义按键类型。</p>\n\n<p>● 新增了MuMu专属鼠标样式，可在“设置-显示-鼠标样式”内开启。</p>\n\n<p>● 优化了模拟器运行性能，可有效降低CPU使用。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.22.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.22.dmg"
+      }
+    },
+    {
+      "id": "d2213ab6-36d4-4a1f-a0ff-2a260da2b64f",
+      "code": "1152993",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.18",
+      "url": "//mumu.163.com/20240430/40145_1152993.html",
+      "showtime": 1714486260000,
+      "updateTime": 1714486583000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 优化了《射雕》的游戏体验。</p>\n\n<p>● 修复了摄像头画面显示不全的问题。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.18.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.18.dmg"
+      }
+    },
+    {
+      "id": "b568bf9d-246d-47d9-80d8-8f4ed1a1abed",
+      "code": "1147948",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.11",
+      "url": "//mumu.163.com/20240408/40145_1147948.html",
+      "showtime": 1712568180000,
+      "updateTime": 1712570404000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了磁盘清理功能，通过【设置-数据-磁盘清理】即可使用。</p>\n\n<p>● 新增了帧率上限设置项，通过【设置-性能-帧率上限】即可限制模拟器最高帧率。</p>\n\n<p>● 为《金铲铲之战》、《明日方舟》、《碧蓝航线》、《命运-冠位指定》等游戏适配了高帧效果。</p>\n\n<p>● 优化了《少女前线2》、《寻道大千》、《无极仙道》的游戏体验。</p>\n\n<p>● 优化了部分功能体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v5",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.11.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.11.dmg"
+      }
+    },
+    {
+      "id": "9dbc4b60-7737-42bb-909f-7703d46a65ca",
+      "code": "1145813",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.4.5",
+      "url": "//mumu.163.com/20240327/40145_1145813.html",
+      "showtime": 1711544580000,
+      "updateTime": 1711591336000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了音量快捷键功能，可通过⌃⌘↑/⌃⌘↓/⌃⌘0来增减音量和静音/取消静音。</p>\n\n<p>● 优化了《射雕》《Magisk》的运行体验。</p>\n\n<p>● 优化了共享文件夹的功能体验。</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.5.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.5.dmg"
+      }
+    },
+    {
+      "id": "70b0258f-91e7-4171-94a8-fd9662fe729c",
+      "code": "1142756",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.3.6",
+      "url": "//mumu.163.com/20240311/40145_1142756.html",
+      "showtime": 1710156240000,
+      "updateTime": 1712568769000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了高画质适配功能，为《原神》适配2K高画质效果！</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.3.6.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.3.6.dmg"
+      }
+    },
+    {
+      "id": "65cea557-d90f-4625-a6a9-dd53b9d5ff73",
+      "code": "1139616",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.2.154",
+      "url": "//mumu.163.com/20240223/40145_1139616.html",
+      "showtime": 1708691520000,
+      "updateTime": 1708691795000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 新增了摇一摇、导出按键方案功能！</p>\n\n<p>● 优化了《原神》的画质体验；</p>\n\n<p>● 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.2.154.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.2.154.dmg"
+      }
+    },
+    {
+      "id": "8eed6778-2b6d-41c3-bddb-a0c0f583108c",
+      "code": "1137437",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.2.152",
+      "url": "//mumu.163.com/20240206/40145_1137437.html",
+      "showtime": 1707199560000,
+      "updateTime": 1707271274000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 修复了《崩坏：星穹铁道》的部分运行问题。</p>\n\n<p>● 优化了部分游戏首次加载卡住的问题；</p>\n\n<p>● 优化了触摸板手势交互效果。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v4",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.2.152.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.2.152.dmg"
+      }
+    },
+    {
+      "id": "c39ee7f3-902b-417e-88d3-d3d291d8537e",
+      "code": "1135810",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.2.147",
+      "url": "//mumu.163.com/20240201/40145_1135810.html",
+      "showtime": 1706769240000,
+      "updateTime": 1707218642000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>● 支持《逆水寒》开启高帧率、高画质设置；</p>\n\n<p>●&nbsp;支持《阴阳师》官服iOS/安卓双端登录和全渠道扫码登录。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v5",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "44891763-2df9-4363-8bb0-b9f7c562c16a",
+      "code": "1135559",
+      "title": "【MuMu模拟器PRO Mac版】版本：1.2.145",
+      "url": "//mumu.163.com/20240131/40145_1135559.html",
+      "showtime": 1706691600000,
+      "updateTime": 1706769205000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>专属Apple M系列芯片的MuMu模拟器Pro上线！</p>\n\n<p>[极致性能表现]</p>\n\n<p>协同Apple M系列芯片，助力模拟器启动快、占用低，运行更流畅。</p>\n\n<p>[超清游戏画质]</p>\n\n<p>依托独家图形技术，最高支持240帧，为移动游戏提供高清画质体验。</p>\n\n<p>[键鼠手柄操控]</p>\n\n<p>提供智能键鼠操作方案，支持主流手柄，适配触摸板手势。</p>\n\n<p>[应用调试助手]</p>\n\n<p>支持多开不同配置设备，内置打开ADB功能，给开发安卓应用加buff！</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    }
+  ],
+  "version": "1238750"
+}
