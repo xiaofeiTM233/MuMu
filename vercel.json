@@ -3,14 +3,26 @@
   "rewrites": [
     {
       "source": "/win",
-      "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=38646"
+      "destination": "/mumu-38646.json"
     },
     {
       "source": "/mac",
-      "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=40145"
+      "destination": "/mumu-40145.json"
     },
     {
       "source": "/winarm",
+      "destination": "/mumu-41817.json"
+    },
+    {
+      "source": "/news/win",
+      "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=38646"
+    },
+    {
+      "source": "/news/mac",
+      "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=40145"
+    },
+    {
+      "source": "/news/winarm",
       "destination": "https://sixhorse.game.163.com/news/outer/newslist.do?contentkind=41817"
     }
   ]
