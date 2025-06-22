@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "fa2f9922-1d29-48e5-9d55-87ef808653ec",
+      "code": "1241930",
+      "title": "[MuMu模拟器 (Windows ARM)] 版本：1.6.14",
+      "url": "//mumu.163.com/20250620/41817_1241930.html",
+      "showtime": 1750395960000,
+      "updateTime": 1750396255000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 新增了「返回上一级」全屏手势支持！只需双指从左边缘或右边缘内滑即可触发。</p>\n\n<p><span class=\"desc_dot\">●</span> 修复了使用《百度输入法》时安卓设备崩溃的问题。</p>\n\n<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器arm版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuARM_1.6.14_gw-update-armbeta.exe"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuARM_1.6.14_gw-update-armbeta.exe"
+      }
+    },
+    {
       "id": "2db235e9-8157-4242-9624-55f2c79abef6",
       "code": "1236812",
       "title": "[MuMu模拟器 (Windows ARM)] 版本：1.6.11",
@@ -121,5 +151,5 @@
       }
     }
   ],
-  "version": "1236812"
+  "version": "1241930"
 }

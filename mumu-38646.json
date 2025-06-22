@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "00b58471-1888-4710-a436-a3ffd737ffc8",
+      "code": "1239922",
+      "title": "[MuMu模拟器安卓12] 版本：4.1.31",
+      "url": "//mumu.163.com/20250611/38646_1239922.html",
+      "showtime": 1749626700000,
+      "updateTime": 1750401411000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[问题修复]</p>\n\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "4fea886d-cf14-45bf-87e3-629d18943c7c"
+      ],
+      "customValues": [
+        "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.31.3724"
+      ],
+      "customAttrInfos": {
+        "udf2": "https://mumu.nie.netease.com/api/v1/release/downloader/NEMUX?channel=V4.1.31.3724"
+      }
+    },
+    {
       "id": "2476602b-495b-465f-ac40-a4765b49f2f8",
       "code": "1239206",
       "title": "[MuMu模拟器安卓12] 版本：4.1.30",
@@ -2911,5 +2941,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1239206"
+  "version": "1239922"
 }
