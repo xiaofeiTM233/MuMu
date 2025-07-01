@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "24a976f3-af54-4c39-b10f-a3378791a710",
+      "code": "1244249",
+      "title": "[MuMu模拟器] 版本：5.0.8",
+      "url": "//mumu.163.com/20250701/38646_1244249.html",
+      "showtime": 1751357400000,
+      "updateTime": 1751357525000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了连击键、迷你模式、批量设置、应用分身、应用保活的功能体验；</p>\n\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "00b58471-1888-4710-a436-a3ffd737ffc8",
       "code": "1239922",
       "title": "[MuMu模拟器安卓12] 版本：4.1.31",
@@ -2941,5 +2965,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1239922"
+  "version": "1244249"
 }
