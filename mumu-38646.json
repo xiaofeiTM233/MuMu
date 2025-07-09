@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "6d8fecaf-f702-471d-b65d-2b819a804ad9",
+      "code": "1245948",
+      "title": "[MuMu模拟器] 版本：5.1.0",
+      "url": "//mumu.163.com/20250708/38646_1245948.html",
+      "showtime": 1751963280000,
+      "updateTime": 1751963680000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span>新增了App发送快捷方式到桌面的功能！右键App图标后，点击“发送到桌面”使用。</p>\n\n<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了远控、手柄操作、老板键、消息中心的功能体验；</p>\n\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>\n\n<p>[兼容修复]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《阴阳师》、《最后的勇者》等游戏的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "24a976f3-af54-4c39-b10f-a3378791a710",
       "code": "1244249",
       "title": "[MuMu模拟器] 版本：5.0.8",
@@ -2965,5 +2989,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1244249"
+  "version": "1245948"
 }
