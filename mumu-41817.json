@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "9c8b6222-7678-4f6b-89c0-280b3bf338ef",
+      "code": "1246672",
+      "title": "[MuMu模拟器 (Windows ARM)] 版本：1.6.16",
+      "url": "//mumu.163.com/20250711/41817_1246672.html",
+      "showtime": 1752202140000,
+      "updateTime": 1752202754000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器arm版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuARM_1.6.16_gw-update-armbeta.exe"
+      ],
+      "customAttrInfos": {
+        "udf3": "https://a11.gdl.netease.com/MuMuARM_1.6.16_gw-update-armbeta.exe"
+      }
+    },
+    {
       "id": "fa2f9922-1d29-48e5-9d55-87ef808653ec",
       "code": "1241930",
       "title": "[MuMu模拟器 (Windows ARM)] 版本：1.6.14",
@@ -151,5 +181,5 @@
       }
     }
   ],
-  "version": "1241930"
+  "version": "1246672"
 }
