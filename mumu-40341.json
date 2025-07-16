@@ -1,0 +1,335 @@
+{
+  "data": [
+    {
+      "id": "a697617c-ee5c-40c7-b260-9fde96c4598f",
+      "code": "1217461",
+      "title": "MuMuPlayer (macOS) V1.5.12",
+      "url": "//www.mumuplayer.com/20250310/40341_1217461.html",
+      "showtime": 1741587000000,
+      "updateTime": 1742281350000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.12-global-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.12-global-gw-update.dmg"
+      }
+    },
+    {
+      "id": "105c884b-a2be-4a5a-b114-86107ae57728",
+      "code": "1217460",
+      "title": "MuMuPlayer (macOS) V1.5.10",
+      "url": "//www.mumuplayer.com/20250310/40341_1217460.html",
+      "showtime": 1741586880000,
+      "updateTime": 1742281014000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.10-global-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.10-global-gw-update.dmg"
+      }
+    },
+    {
+      "id": "029688f7-79a1-4b3c-bc5a-40c059be0663",
+      "code": "1192018",
+      "title": "MuMuPlayer (macOS) V1.5.4",
+      "url": "//www.mumuplayer.com/20241107/40341_1192018.html",
+      "showtime": 1730948340000,
+      "updateTime": 1742281067000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Launched a new feature of \"Developer\"! With \"Developer\" on the top menu bar, you can easily manage your Android Device's network connection and flight mode status, and quickly open ADB, command-line tool and developer settings.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.4-global.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.4-global.dmg"
+      }
+    },
+    {
+      "id": "4b83233a-3e15-4190-b2b8-cfd42a821fdd",
+      "code": "1186815",
+      "title": "MuMuPlayer (macOS) V1.5.3",
+      "url": "//www.mumuplayer.com/20241015/40341_1186815.html",
+      "showtime": 1728960000000,
+      "updateTime": 1742281240000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Optimized function experience with Keyboard&amp;Mouse and Gamepad.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.3-global.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.3-global.dmg"
+      }
+    },
+    {
+      "id": "203e7314-a8a6-40e7-97a6-83b8d802e8ea",
+      "code": "1178451",
+      "title": "MuMuPlayer (macOS) V1.4.46",
+      "url": "//www.mumuplayer.com/20240902/40341_1178451.html",
+      "showtime": 1725277140000,
+      "updateTime": 1742281327000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Launched a new feature of Gamepad Vibration! You can experience vibration in games like Dunk City Dynasty.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized gaming experience with Genshin Impact and Tarisland.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.46-global.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.46-global.dmg"
+      }
+    },
+    {
+      "id": "58921ace-1f10-409a-b153-15cc0edf8c36",
+      "code": "1174173",
+      "title": "MuMuPlayer (macOS) V1.4.42",
+      "url": "//www.mumuplayer.com/20240814/40341_1174173.html",
+      "showtime": 1723610520000,
+      "updateTime": 1742281373000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Optimized gaming experience with Cabal: Infinite Combo.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized function experience with Keyboard&amp;Mouse and Gamepad.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.42-global.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.42-global.dmg"
+      }
+    },
+    {
+      "id": "1262518a-382c-46a8-8c8f-2b93e9bbcc0b",
+      "code": "1164266",
+      "title": "MuMuPlayer (macOS) V1.4.36",
+      "url": "//www.mumuplayer.com/20240701/40341_1164266.html",
+      "showtime": 1719841020000,
+      "updateTime": 1742281512000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Launched a new feature of setting device storage directory! You can find it in \"Global-Device Storage Directory\" and customize it to meet your needs, such as using your own data storage directory and running your Android Device with an external hard drive on different Mac devices.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the tips of APK installation.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.36-global.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.36-global.dmg"
+      }
+    },
+    {
+      "id": "8ac53bf6-ae52-4bb1-91eb-5ff215905d3b",
+      "code": "1159920",
+      "title": "MuMuPlayer (macOS) V1.4.29",
+      "url": "//www.mumuplayer.com/20240607/40341_1159920.html",
+      "showtime": 1717755660000,
+      "updateTime": 1742281563000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of Genshin Impact.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.29-global.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.29-global.dmg"
+      }
+    },
+    {
+      "id": "eaaa0eb3-75fc-46d7-ba0a-e14a075357a1",
+      "code": "1158935",
+      "title": "MuMuPlayer (macOS) V1.4.28",
+      "url": "//www.mumuplayer.com/20240604/40341_1158935.html",
+      "showtime": 1717468800000,
+      "updateTime": 1742281632000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Launched the new feature of Open Command-Line Tool! You can find it at the top menu bar \"MuMuPlayer Pro - Open Command-Line Tool\", and click \"Help - Read Developer Documentation\" if you need a tutorial.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of Solo Leveling:ARISE.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.28-global.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.28-global.dmg"
+      }
+    },
+    {
+      "id": "06bfc005-250c-4c83-998a-61161af093e5",
+      "code": "1157823",
+      "title": "MuMuPlayer (macOS) V1.4.25",
+      "url": "//www.mumuplayer.com/20240528/40341_1157823.html",
+      "showtime": 1716903360000,
+      "updateTime": 1742281717000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Optimized the user experience of some features.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.25-global.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.4.25-global.dmg"
+      }
+    },
+    {
+      "id": "98709774-325f-42ae-813a-27a1f7f6d931",
+      "code": "1149045",
+      "title": "MuMuPlayer (macOS) Beta",
+      "url": "//www.mumuplayer.com/20240412/40341_1149045.html",
+      "showtime": 1712910720000,
+      "updateTime": 1742282126000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>Come and join the Beta of MuMuPlayer Pro now!</p>\n\n<p>[Android On Your Mac]</p>\n\n<p>Exclusively engineered for Apple Silicon Mac.</p>\n\n<p>[High-Definition Graphics]</p>\n\n<p>Powered by cutting-edge rendering technology.</p>\n\n<p>[Smooth Experience]</p>\n\n<p>Achieved by thorough performance optimization.</p>\n\n<p>[Smart Mapping Schemes]</p>\n\n<p>Customized for top-notch operations.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v9",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://discord.gg/avNd7qBPPW"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://discord.gg/avNd7qBPPW"
+      }
+    }
+  ],
+  "version": "1217461"
+}

@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": "4ffa0a7e-424f-4679-ade5-763e32e68c7f",
+      "code": "1217517",
+      "title": "MuMu模擬器 (macOS) V1.5.12",
+      "url": "//www.mumuplayer.com/tw/mac/update/20250310/41745_1217517.html",
+      "showtime": 1741589400000,
+      "updateTime": 1742290956000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.12-global-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.12-global-gw-update.dmg"
+      }
+    },
+    {
+      "id": "ccc9fcd2-6ac0-4805-be05-eaead9cebf99",
+      "code": "1217515",
+      "title": "MuMu模擬器 (macOS) V1.5.10",
+      "url": "//www.mumuplayer.com/tw/mac/update/20250310/41745_1217515.html",
+      "showtime": 1741589340000,
+      "updateTime": 1742290944000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "1a36cb05-c182-480b-a067-2af4554a6bf9"
+      ],
+      "customValues": [
+        "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.10-global-gw-update.dmg"
+      ],
+      "customAttrInfos": {
+        "udf1": "https://a11.gdl.netease.com/MuMuPlayerPro-v1.5.10-global-gw-update.dmg"
+      }
+    }
+  ],
+  "version": "1217517"
+}

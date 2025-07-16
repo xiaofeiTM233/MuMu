@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "cd4386cc-44f7-48f8-b130-d2456fc79a98",
+      "code": "1247121",
+      "title": "[MuMu模拟器] 版本：5.1.1",
+      "url": "//mumu.163.com/20250714/38646_1247121.html",
+      "showtime": 1752497160000,
+      "updateTime": 1752497239000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>修复了关闭“开机启动”后，该设置偶现失效的问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "6d8fecaf-f702-471d-b65d-2b819a804ad9",
       "code": "1245948",
       "title": "[MuMu模拟器] 版本：5.1.0",
@@ -2989,5 +3013,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1245948"
+  "version": "1247121"
 }
