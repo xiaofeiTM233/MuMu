@@ -1,6 +1,54 @@
 {
   "data": [
     {
+      "id": "45ed1db3-9cd4-4ece-baf6-6c563f86da2d",
+      "code": "1248981",
+      "title": "[MuMu模拟器] 版本：5.1.4",
+      "url": "//mumu.163.com/20250722/38646_1248981.html",
+      "showtime": 1753177860000,
+      "updateTime": 1753178058000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span>新增了支持安卓设备创建桌面快捷方式的功能！在主窗口点击安卓设备的菜单按钮（⋮），选择“创建桌面快捷方式”即可创建;</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了安卓设备排序的功能！</p>\n\n<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了开机自动启动的功能体验;</p>\n\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "be36e744-aa87-4873-9e7b-77a8b6cee5c2",
+      "code": "1248187",
+      "title": "[MuMu模拟器] 版本：5.1.3",
+      "url": "//mumu.163.com/20250718/38646_1248187.html",
+      "showtime": 1752810240000,
+      "updateTime": 1752810358000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了桌面小工具文件夹的使用体验;</p>\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>\n\n<p>[兼容修复]</p>\n<p><span class=\"desc_dot\">●</span>优化了《Microsoft Edge》等应用的体验。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "cd4386cc-44f7-48f8-b130-d2456fc79a98",
       "code": "1247121",
       "title": "[MuMu模拟器] 版本：5.1.1",
@@ -3013,5 +3061,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1247121"
+  "version": "1248981"
 }
