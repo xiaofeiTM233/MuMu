@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "182dac95-c3c1-4193-867a-3c2e02e8a876",
+      "code": "1251912",
+      "title": "[MuMu模拟器] 版本：5.3.1",
+      "url": "//mumu.163.com/20250805/38646_1251912.html",
+      "showtime": 1754374860000,
+      "updateTime": 1754374935000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span>新增了批量设置 IMEI 参数功能;</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 ADB 端口显示功能，可在主界面“菜单栏-设置中心-其他-ADB 端口”查看运行中的安卓设备的 ADB 端口信息；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了应用分身重命名功能！</p>\n\n<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了按键操作、安卓设备编号、记住窗口大小和位置的功能体验;</p>\n\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "468a8ce5-e2ed-43c9-a3ab-154b9832ef67",
       "code": "1250046",
       "title": "[MuMu模拟器] 版本：5.2.0",
@@ -3085,5 +3109,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1250046"
+  "version": "1251912"
 }
