@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "5c2e05ac-4406-4967-910e-4864438bd3a4",
+      "code": "1252638",
+      "title": "MuMuPlayer (Windows) V5.3.3",
+      "url": "//www.mumuplayer.com/20250807/37290_1252638.html",
+      "showtime": 1754567580000,
+      "updateTime": 1754567832000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "[NewFeatures]●AddedabatchIMEIsettingfeature.Bysettingthesameperformancesettings(CPUcores,memorysize),resolutionsettings(screenresolution,DPI),phonemodel(brand,devicemodel,networkaccessmodel),IMEI,andGPUModelforAndroiddevices,youcangenerateidenticalHWIDs!●AddedsupportforcreatingdesktopshortcutsforAndroiddevices!",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[New Features]</p>\n\n<p><span class=\"desc_dot\">●</span> Added a batch IMEI setting feature. By setting the same performance settings (CPU cores, memory size), resolution settings (screen resolution, DPI), phone model (brand, device model, network access model), IMEI, and GPU Model for Android devices, you can generate identical HWIDs!</p>\n\n<p><span class=\"desc_dot\">●</span> Added support for creating desktop shortcuts for Android devices! Click the menu button (⋮) for an Android device in the main interface and select \"Create Desktop Shortcut\" to create one.</p>\n\n<p><span class=\"desc_dot\">●</span> Added a dark mode feature. You can set the appearance to follow the system, dark, or light mode via \"Settings &gt; Other &gt; Appearance Settings.\"</p>\n\n<p><span class=\"desc_dot\">●</span> Added Android device numbering.</p>\n\n<p><span class=\"desc_dot\">●</span> Added sorting for Android devices by time, number, and name.</p>\n\n<p><span class=\"desc_dot\">●</span> Added ADB port display feature. You can view the ADB port information of running Android devices in \"Menu Bar &gt; Settings &gt; Other &gt; ADB port\" on the main interface.</p>\n\n<p><span class=\"desc_dot\">●</span> Added a feature to restore the window to its default size.</p>\n\n<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized font display styles: supports Microsoft JhengHei for Traditional Chinese, Yu Gothic for Japanese, and Malgun Gothic for Korean.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the experience for keyboard and mouse, as well as remembering window size and position.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the experience for auto-start on boot.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[New Features]</p>\n\n<p><span class=\"desc_dot\">●</span> Added a batch IMEI setting feature. By setting the same performance settings (CPU cores, memory size), resolution settings (screen resolution, DPI), phone model (brand, device model, network access model), IMEI, and GPU Model for Android devices, you can generate identical HWIDs!</p>\n\n<p><span class=\"desc_dot\">●</span> Added support for creating desktop shortcuts for Android devices! Click the menu button (⋮) for an Android device in the main interface and select \"Create Desktop Shortcut\" to create one.</p>\n\n<p><span class=\"desc_dot\">●</span> Added a dark mode feature. You can set the appearance to follow the system, dark, or light mode via \"Settings &gt; Other &gt; Appearance Settings.\"</p>\n\n<p><span class=\"desc_dot\">●</span> Added Android device numbering.</p>\n\n<p><span class=\"desc_dot\">●</span> Added sorting for Android devices by time, number, and name.</p>\n\n<p><span class=\"desc_dot\">●</span> Added ADB port display feature. You can view the ADB port information of running Android devices in \"Menu Bar &gt; Settings &gt; Other &gt; ADB port\" on the main interface.</p>\n\n<p><span class=\"desc_dot\">●</span> Added a feature to restore the window to its default size.</p>\n\n<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized font display styles: supports Microsoft JhengHei for Traditional Chinese, Yu Gothic for Japanese, and Malgun Gothic for Korean.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the experience for keyboard and mouse, as well as remembering window size and position.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the experience for auto-start on boot.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      }
+    },
+    {
       "id": "d9f15755-1582-42c8-a967-03ed70185c43",
       "code": "1241464",
       "title": "MuMuPlayer (Windows) V4.1.32",
@@ -988,5 +1018,5 @@
       }
     }
   ],
-  "version": "1241464"
+  "version": "1252638"
 }
