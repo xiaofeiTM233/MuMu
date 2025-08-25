@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "45955f9e-47ce-421b-b7bb-4ae1a7683bc1",
+      "code": "1254051",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.6.15",
+      "url": "//mumu.163.com/20250814/40145_1254051.html",
+      "showtime": 1755171360000,
+      "updateTime": 1755171664000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "3cfa1240-3062-4662-80f8-436d027aa8c4",
       "code": "1252392",
       "title": "[MuMu模拟器PRO Mac版] 版本：1.6.13",
@@ -1027,5 +1051,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1252392"
+  "version": "1254051"
 }

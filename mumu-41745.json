@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "a4a5b54a-ad27-4a9b-a19c-6354d0a29653",
+      "code": "1252768",
+      "title": "MuMuPlayer (macOS) V1.6.12",
+      "url": "//www.mumuplayer.com/tw/mac/update/20250808/41745_1252768.html",
+      "showtime": 1754638020000,
+      "updateTime": 1754638129000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 優化了《삼국지 점령전》《Dream and Lethe Record》《Auroria: a playful journey》的遊戲體驗。</p>\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "4ffa0a7e-424f-4679-ade5-763e32e68c7f",
       "code": "1217517",
       "title": "MuMu模擬器 (macOS) V1.5.12",
@@ -61,5 +85,5 @@
       }
     }
   ],
-  "version": "1217517"
+  "version": "1252768"
 }

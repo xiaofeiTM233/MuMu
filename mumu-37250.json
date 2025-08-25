@@ -1,6 +1,66 @@
 {
   "data": [
     {
+      "id": "65a05cea-9a31-42dc-be78-d688cf533af2",
+      "code": "1255834",
+      "title": "MuMuPlayer (Windows) V5.4.1",
+      "url": "//www.mumuplayer.com/20250825/37250_1255834.html",
+      "showtime": 1756105620000,
+      "updateTime": 1756105807000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了語言切換功能，支援隨意切換英語、韓語、繁中、日語；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了新建裝置時設定更多選項的功能，可選擇螢幕方向、裝置數量、套用場景和小磁碟模式後建立；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 裝置小列表模式，在主介面可切換展示；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了在主介面雙擊執行中的 Android 裝置，可喚起該 Android 裝置視窗的功能；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 導航鍵「多任務」的快速鍵設定； [體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 支援在《Roblox》運作時僅展示遊戲內的滑鼠，不展示電腦滑鼠；</p>\n\n<p><span class=\"desc_dot",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了語言切換功能，支援隨意切換英語、韓語、繁中、日語；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了新建裝置時設定更多選項的功能，可選擇螢幕方向、裝置數量、套用場景和小磁碟模式後建立；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 裝置小列表模式，在主介面可切換展示；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了在主介面雙擊執行中的 Android 裝置，可喚起該 Android 裝置視窗的功能；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 導航鍵「多任務」的快速鍵設定；</p>\n\n<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 支援在《Roblox》運作時僅展示遊戲內的滑鼠，不展示電腦滑鼠；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了多開 Android 裝置、多顯示器下視窗顯示、鍵鼠操作的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《戀與深空》《Pokémon Card》《Pokémon TCGP》《英雄聯盟：激鬥峽谷》《Free Fire》《黑色沙漠MOBILE》等多款遊戲的體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了語言切換功能，支援隨意切換英語、韓語、繁中、日語；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了新建裝置時設定更多選項的功能，可選擇螢幕方向、裝置數量、套用場景和小磁碟模式後建立；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 裝置小列表模式，在主介面可切換展示；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了在主介面雙擊執行中的 Android 裝置，可喚起該 Android 裝置視窗的功能；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 導航鍵「多任務」的快速鍵設定；</p>\n\n<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 支援在《Roblox》運作時僅展示遊戲內的滑鼠，不展示電腦滑鼠；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了多開 Android 裝置、多顯示器下視窗顯示、鍵鼠操作的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《戀與深空》《Pokémon Card》《Pokémon TCGP》《英雄聯盟：激鬥峽谷》《Free Fire》《黑色沙漠MOBILE》等多款遊戲的體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      }
+    },
+    {
+      "id": "4691d0c1-a144-4461-97f2-8d572192ff62",
+      "code": "1252639",
+      "title": "MuMuPlayer (Windows) V5.3.3",
+      "url": "//www.mumuplayer.com/20250807/37250_1252639.html",
+      "showtime": 1754567820000,
+      "updateTime": 1754568116000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "[全新功能]●新增了批量設定IMEI編碼功能，批量設定可讓Android裝置效能設定（CPU核數、記憶體大小）、解析度設定（螢幕解析度、DPI）、手機機型（手機品牌、手機型號、入網機型）、IMEI編碼、GPU型號一致即可產生相同的HWID！●新增了支援Android裝置建立桌面捷徑的功能！",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了批量設定 IMEI 編碼功能，批量設定可讓 Android 裝置效能設定（CPU 核數、記憶體大小）、解析度設定（螢幕解析度、DPI）、手機機型（手機品牌、手機型號、入網機型）、IMEI 編碼、GPU 型號一致即可產生相同的 HWID ！</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了支援 Android 裝置建立桌面捷徑的功能！在主介面點選 Android 裝置的選單按鈕（⋮），選擇「建立桌面捷徑」即可建立；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了深色外觀功能，透過「設定中心-其他-外觀設定」可設定外觀跟隨系統、深色或淺色；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 裝置編號；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 裝置依照時間、編號、名稱排序的功能；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 ADB 連接埠顯示功能，可在主介面「功能表列-設定中心-其他-ADB 連接埠」查看執行中的 Android 裝置的 ADB 連接埠資訊；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了復原視窗預設大小功能；</p>\n\n<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了字體顯示樣式，支援繁體中文顯示 Microsoft JhengHei 、日文顯示 Yu Gothic、韓文顯示 Malgun Gothic；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了鍵鼠、記住視窗大小和位置的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了開機自動啟動的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了批量設定 IMEI 編碼功能，批量設定可讓 Android 裝置效能設定（CPU 核數、記憶體大小）、解析度設定（螢幕解析度、DPI）、手機機型（手機品牌、手機型號、入網機型）、IMEI 編碼、GPU 型號一致即可產生相同的 HWID ！</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了支援 Android 裝置建立桌面捷徑的功能！在主介面點選 Android 裝置的選單按鈕（⋮），選擇「建立桌面捷徑」即可建立；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了深色外觀功能，透過「設定中心-其他-外觀設定」可設定外觀跟隨系統、深色或淺色；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 裝置編號；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 Android 裝置依照時間、編號、名稱排序的功能；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了 ADB 連接埠顯示功能，可在主介面「功能表列-設定中心-其他-ADB 連接埠」查看執行中的 Android 裝置的 ADB 連接埠資訊；</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了復原視窗預設大小功能；</p>\n\n<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了字體顯示樣式，支援繁體中文顯示 Microsoft JhengHei 、日文顯示 Yu Gothic、韓文顯示 Malgun Gothic；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了鍵鼠、記住視窗大小和位置的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了開機自動啟動的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      }
+    },
+    {
       "id": "7782f925-1137-465d-9866-e0a8af5577fb",
       "code": "1236580",
       "title": "MuMuPlayer (Windows) V4.1.28",
@@ -232,5 +292,5 @@
       }
     }
   ],
-  "version": "1236580"
+  "version": "1255834"
 }

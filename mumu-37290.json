@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "6333457e-1c28-4328-b435-81b023648f39",
+      "code": "1255831",
+      "title": "MuMuPlayer (Windows) V5.4.1",
+      "url": "//www.mumuplayer.com/20250825/37290_1255831.html",
+      "showtime": 1756105380000,
+      "updateTime": 1756105588000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "[NewFeatures]●Addedalanguageswitchfeature,allowingyoutofreelyswitchbetweenEnglish,Korean,TraditionalChinese,andJapanese.●Addedmoreoptionswhencreatinganewdevice.Youcannowselectscreenorientation,numberofdevices,applicationscenario,andsmallDiskmodebeforecreation.●AddedasmalllistmodeforAndroiddevices,whichcanbetoggledinthemaininterface.●Addedtheabilitytodouble-clickarunningAndroiddeviceinthemaininterfacetobringupitswindow.●AddedshortcutsettingsfortheAndroidnavkey\"Multitask.\"[ExperienceOptimization]●",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[New Features]</p>\n\n<p><span class=\"desc_dot\">●</span> Added a language switch feature, allowing you to freely switch between English, Korean, Traditional Chinese, and Japanese.</p>\n\n<p><span class=\"desc_dot\">●</span> Added more options when creating a new device. You can now select screen orientation, number of devices, application scenario, and small Disk mode before creation.</p>\n\n<p><span class=\"desc_dot\">●</span> Added a small list mode for Android devices, which can be toggled in the main interface.</p>\n\n<p><span class=\"desc_dot\">●</span> Added the ability to double-click a running Android device in the main interface to bring up its window.</p>\n\n<p><span class=\"desc_dot\">●</span> Added shortcut settings for the Android nav key \"Multi task.\"</p>\n\n<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> When running Roblox, only the in-game mouse is displayed; the computer mouse is hidden.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the window display and keyboard &amp; mouse operation experience on Multi-instance or multiple monitors.</p>\n\n<p><span class=\"desc_dot\">●</span> Improved the experience for several games, including Love and Deepspace, Pokémon Card, Pokémon TCGP, League Of Legends: Wild Rift, Free Fire, and Black Desert Mobile.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[New Features]</p>\n\n<p><span class=\"desc_dot\">●</span> Added a language switch feature, allowing you to freely switch between English, Korean, Traditional Chinese, and Japanese.</p>\n\n<p><span class=\"desc_dot\">●</span> Added more options when creating a new device. You can now select screen orientation, number of devices, application scenario, and small Disk mode before creation.</p>\n\n<p><span class=\"desc_dot\">●</span> Added a small list mode for Android devices, which can be toggled in the main interface.</p>\n\n<p><span class=\"desc_dot\">●</span> Added the ability to double-click a running Android device in the main interface to bring up its window.</p>\n\n<p><span class=\"desc_dot\">●</span> Added shortcut settings for the Android nav key \"Multi task.\"</p>\n\n<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> When running Roblox, only the in-game mouse is displayed; the computer mouse is hidden.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the window display and keyboard &amp; mouse operation experience on Multi-instance or multiple monitors.</p>\n\n<p><span class=\"desc_dot\">●</span> Improved the experience for several games, including Love and Deepspace, Pokémon Card, Pokémon TCGP, League Of Legends: Wild Rift, Free Fire, and Black Desert Mobile.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      }
+    },
+    {
       "id": "5c2e05ac-4406-4967-910e-4864438bd3a4",
       "code": "1252638",
       "title": "MuMuPlayer (Windows) V5.3.3",
@@ -1018,5 +1048,5 @@
       }
     }
   ],
-  "version": "1252638"
+  "version": "1255831"
 }

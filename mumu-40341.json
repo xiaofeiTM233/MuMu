@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "d747e0e5-46dd-412a-91f6-ea4862827919",
+      "code": "1252761",
+      "title": "MuMuPlayer (macOS) V1.6.12",
+      "url": "//www.mumuplayer.com/20250808/40341_1252761.html",
+      "showtime": 1754637480000,
+      "updateTime": 1754637630000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of 삼국지 점령전, Dream and Lethe Record, Auroria: a playful journey.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "a697617c-ee5c-40c7-b260-9fde96c4598f",
       "code": "1217461",
       "title": "MuMuPlayer (macOS) V1.5.12",
@@ -331,5 +355,5 @@
       }
     }
   ],
-  "version": "1217461"
+  "version": "1252761"
 }
