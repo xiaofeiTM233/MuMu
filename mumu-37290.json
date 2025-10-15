@@ -1,6 +1,66 @@
 {
   "data": [
     {
+      "id": "d26980fc-a8ec-4194-8d43-faf67e8135f9",
+      "code": "1262786",
+      "title": "MuMuPlayer (Windows) V5.7.1",
+      "url": "//www.mumuplayer.com/20250930/37290_1262786.html",
+      "showtime": 1759216320000,
+      "updateTime": 1759216538000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Improved the experience of multi-instance.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Improved the experience of multi-instance.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Improved the experience of multi-instance.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      }
+    },
+    {
+      "id": "1c0d8c7d-95f8-46cf-987e-1f414bff342a",
+      "code": "1259972",
+      "title": "MuMuPlayer (Windows) V5.6.1",
+      "url": "//www.mumuplayer.com/20250918/37290_1259972.html",
+      "showtime": 1758175860000,
+      "updateTime": 1758180070000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[New Features]</p>\n<p><span class=\"desc_dot\">●</span> Added a function to search for Android devices in the main interface.</p>\n<p>[Experience Optimization]</p>\n<p><span class=\"desc_dot\">●</span> Improved the experience of creating new Android Devices and the Boss key feature.</p>\n<p><span class=\"desc_dot\">●</span> Enhanced the gameplay experience of \"Destiny: Rising.\"</p>\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[New Features]</p>\n<p><span class=\"desc_dot\">●</span> Added a function to search for Android devices in the main interface.</p>\n<p>[Experience Optimization]</p>\n<p><span class=\"desc_dot\">●</span> Improved the experience of creating new Android Devices and the Boss key feature.</p>\n<p><span class=\"desc_dot\">●</span> Enhanced the gameplay experience of \"Destiny: Rising.\"</p>\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[New Features]</p>\n<p><span class=\"desc_dot\">●</span> Added a function to search for Android devices in the main interface.</p>\n<p>[Experience Optimization]</p>\n<p><span class=\"desc_dot\">●</span> Improved the experience of creating new Android Devices and the Boss key feature.</p>\n<p><span class=\"desc_dot\">●</span> Enhanced the gameplay experience of \"Destiny: Rising.\"</p>\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      }
+    },
+    {
       "id": "6333457e-1c28-4328-b435-81b023648f39",
       "code": "1255831",
       "title": "MuMuPlayer (Windows) V5.4.1",
@@ -1048,5 +1108,5 @@
       }
     }
   ],
-  "version": "1255831"
+  "version": "1262786"
 }

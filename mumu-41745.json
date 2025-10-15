@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "b61ead89-87bd-48f1-9a8a-4718abc6bd96",
+      "code": "1264089",
+      "title": "MuMuPlayer (macOS) V1.6.14",
+      "url": "//www.mumuplayer.com/tw/mac/update/20251010/41745_1264089.html",
+      "showtime": 1760086380000,
+      "updateTime": 1760086462000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "a4a5b54a-ad27-4a9b-a19c-6354d0a29653",
       "code": "1252768",
       "title": "MuMuPlayer (macOS) V1.6.12",
@@ -85,5 +109,5 @@
       }
     }
   ],
-  "version": "1252768"
+  "version": "1264089"
 }

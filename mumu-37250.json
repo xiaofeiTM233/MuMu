@@ -1,6 +1,66 @@
 {
   "data": [
     {
+      "id": "82c51e4e-3adc-4070-9fb7-3765b1689780",
+      "code": "1262796",
+      "title": "MuMuPlayer (Windows) V5.7.1",
+      "url": "//www.mumuplayer.com/20250930/37250_1262796.html",
+      "showtime": 1759217220000,
+      "updateTime": 1759217311000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了多開安卓設備體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了多開安卓設備體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了多開安卓設備體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      }
+    },
+    {
+      "id": "fc9280d8-4223-4cdd-8855-2df1e54d4b66",
+      "code": "1260011",
+      "title": "MuMuPlayer (Windows) V5.6.1",
+      "url": "//www.mumuplayer.com/20250918/37250_1260011.html",
+      "showtime": 1758180060000,
+      "updateTime": 1758180219000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了主介面內搜尋 Android 裝置的功能；</p>\n\n<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了新 Android 裝置、隱藏鍵的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《天命：群星》的遊戲體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了主介面內搜尋 Android 裝置的功能；</p>\n\n<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了新 Android 裝置、隱藏鍵的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《天命：群星》的遊戲體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 新增了主介面內搜尋 Android 裝置的功能；</p>\n\n<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了新 Android 裝置、隱藏鍵的功能體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《天命：群星》的遊戲體驗；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      }
+    },
+    {
       "id": "65a05cea-9a31-42dc-be78-d688cf533af2",
       "code": "1255834",
       "title": "MuMuPlayer (Windows) V5.4.1",
@@ -292,5 +352,5 @@
       }
     }
   ],
-  "version": "1255834"
+  "version": "1262796"
 }
