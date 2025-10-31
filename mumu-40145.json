@@ -1,6 +1,54 @@
 {
   "data": [
     {
+      "id": "b05e2530-c4c1-46fa-9f30-792139f8fc7a",
+      "code": "1267361",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.7.1",
+      "url": "//mumu.163.com/20251028/40145_1267361.html",
+      "showtime": 1761627540000,
+      "updateTime": 1761627619000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "bc1e7778-6401-4de9-9353-2cdcc17a2f89",
+      "code": "1266868",
+      "title": "[MuMu模拟器PRO Mac版] 版本：1.7.0",
+      "url": "//mumu.163.com/20251024/40145_1266868.html",
+      "showtime": 1761305760000,
+      "updateTime": 1761305928000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 优化了键鼠操控体验。</p>\n\n<p><span class=\"desc_dot\">●</span> 优化了《命运：群星》、《星痕共鸣》的游戏体验。</p>\n\n<p><span class=\"desc_dot\">●</span> 修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MuMu模拟器pro mac版更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "919acdf1-56ee-4c44-9b91-e2dec9bb3376",
       "code": "1264904",
       "title": "[MuMu模拟器PRO Mac版] 版本：1.6.37",
@@ -1075,5 +1123,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1264904"
+  "version": "1267361"
 }

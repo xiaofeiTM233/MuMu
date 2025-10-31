@@ -1,12 +1,36 @@
 {
   "data": [
     {
+      "id": "bc54c15c-4673-4934-875b-3d57d753bb5a",
+      "code": "1266151",
+      "title": "[MuMu模拟器] 版本：5.8.1",
+      "url": "//mumu.163.com/20251022/38646_1266151.html",
+      "showtime": 1761097200000,
+      "updateTime": 1761097386000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[体验优化]</p>\n\n<p><span class=\"desc_dot\">●</span>优化了安卓设备功能菜单栏的交互体验。</p>\n\n<p><span class=\"desc_dot\">●</span>优化了《碧蓝航线》、《命运：群星》的游戏体验。</p>\n\n<p><span class=\"desc_dot\">●</span>修复了部分已知问题。</p>",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "78f2b801-8424-4d9a-b14c-df8fadf8ad60",
       "code": "1263843",
-      "title": "[MuMu模拟器] 版本：5.7.0",
+      "title": "[MuMu模拟器] 版本：5.7.2",
       "url": "//mumu.163.com/20251009/38646_1263843.html",
       "showtime": 1760005980000,
-      "updateTime": 1760006164000,
+      "updateTime": 1760319665000,
       "author": "",
       "imageFileId": "",
       "imageUrl": null,
@@ -17,7 +41,7 @@
       "ckName": "MUMU模拟器12",
       "shortTitle": "",
       "subTitle": "",
-      "latestVersion": "v1",
+      "latestVersion": "v2",
       "resourceUrls": null,
       "resourceInfos": null,
       "customNameIds": [],
@@ -3253,5 +3277,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1263843"
+  "version": "1266151"
 }

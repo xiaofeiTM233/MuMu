@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "a192300d-f9a4-4b8e-9749-734138dcca5f",
+      "code": "1266600",
+      "title": "MuMuPlayer (macOS) V1.6.40",
+      "url": "//www.mumuplayer.com/tw/mac/update/20251023/41745_1266600.html",
+      "showtime": 1761209880000,
+      "updateTime": 1761209945000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 優化了鍵鼠操控體驗。</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《天命：群星》、《18TRIP》、《賽馬娘Pretty Derby》、《ジョジョの奇妙な冒険 オラオラオーバードライブ》、《魔法少女まどかマギカ Magia Exedra》的遊戲體驗。</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "b61ead89-87bd-48f1-9a8a-4718abc6bd96",
       "code": "1264089",
       "title": "MuMuPlayer (macOS) V1.6.14",
@@ -109,5 +133,5 @@
       }
     }
   ],
-  "version": "1264089"
+  "version": "1266600"
 }

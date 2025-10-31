@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "id": "db7cc0bc-0aeb-46d1-ae16-2fd31e171693",
+      "code": "1267599",
+      "title": "MuMuPlayer (Windows) V5.8.4",
+      "url": "//www.mumuplayer.com/20251029/37250_1267599.html",
+      "showtime": 1761709380000,
+      "updateTime": 1761709668000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
+      "id": "0b6e4b59-5753-4d16-b7e3-230b7e45b72c",
+      "code": "1265362",
+      "title": "MuMuPlayer (Windows) V5.7.3",
+      "url": "//www.mumuplayer.com/20251017/37250_1265362.html",
+      "showtime": 1760682840000,
+      "updateTime": 1760682945000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題；</p>"
+      }
+    },
+    {
       "id": "82c51e4e-3adc-4070-9fb7-3765b1689780",
       "code": "1262796",
       "title": "MuMuPlayer (Windows) V5.7.1",
@@ -352,5 +406,5 @@
       }
     }
   ],
-  "version": "1262796"
+  "version": "1267599"
 }
