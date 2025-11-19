@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "dc90d8c8-c6b1-4214-b5f2-30f289fe94e9",
+      "code": "1270115",
+      "title": "MuMuPlayer (Windows) V5.9.1",
+      "url": "//www.mumuplayer.com/20251110/37290_1270115.html",
+      "showtime": 1762765620000,
+      "updateTime": 1762765775000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[New Features]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported StarDesk remote control, allowing you to check game progress anytime, anywhere! [Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported switching the display language to German and French.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[New Features]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported StarDesk remote control, allowing you to check game progress anytime, anywhere! [Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported switching the display language to German and French.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[New Features]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported StarDesk remote control, allowing you to check game progress anytime, anywhere! [Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported switching the display language to German and French.</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed some known issues.</p>"
+      }
+    },
+    {
       "id": "85e23249-ed27-4836-9322-81e8d957d9db",
       "code": "1267592",
       "title": "MuMuPlayer (Windows) V5.8.4",
@@ -1168,5 +1198,5 @@
       }
     }
   ],
-  "version": "1267592"
+  "version": "1270115"
 }
