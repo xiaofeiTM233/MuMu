@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "85ed1c1b-b214-4d6c-b1e0-ee0b27f8cd0c",
+      "code": "1273218",
+      "title": "MuMuPlayer (Windows) V5.10.4",
+      "url": "//www.mumuplayer.com/20251126/37290_1273218.html",
+      "showtime": 1763532900000,
+      "updateTime": 1764137926000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of Destiny: Rising, Love and Deepspace, Pokémon TCGP, Call of Duty, and SD Gundam G Generation ETERNAL.</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of Destiny: Rising, Love and Deepspace, Pokémon TCGP, Call of Duty, and SD Gundam G Generation ETERNAL.</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of Destiny: Rising, Love and Deepspace, Pokémon TCGP, Call of Duty, and SD Gundam G Generation ETERNAL.</p>"
+      }
+    },
+    {
       "id": "dc90d8c8-c6b1-4214-b5f2-30f289fe94e9",
       "code": "1270115",
       "title": "MuMuPlayer (Windows) V5.9.1",
@@ -1198,5 +1228,5 @@
       }
     }
   ],
-  "version": "1270115"
+  "version": "1273218"
 }

@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "810cb7d2-1d56-4dad-8764-5bb6da53ec79",
+      "code": "1273221",
+      "title": "MuMuPlayer (Windows) V5.10.4",
+      "url": "//www.mumuplayer.com/20251126/37250_1273221.html",
+      "showtime": 1763533200000,
+      "updateTime": 1764138313000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《天命：群星》、《戀與深空》、《寶可夢TCGP》、《決勝時刻》和《SD鋼彈 G世代 永恆》等遊戲的體驗；</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《天命：群星》、《戀與深空》、《寶可夢TCGP》、《決勝時刻》和《SD鋼彈 G世代 永恆》等遊戲的體驗；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《天命：群星》、《戀與深空》、《寶可夢TCGP》、《決勝時刻》和《SD鋼彈 G世代 永恆》等遊戲的體驗；</p>"
+      }
+    },
+    {
       "id": "c6e0c379-ba3d-41f5-a8fd-7ec2812560b1",
       "code": "1270116",
       "title": "MuMuPlayer (Windows) V5.9.1",
@@ -436,5 +466,5 @@
       }
     }
   ],
-  "version": "1270116"
+  "version": "1273221"
 }
