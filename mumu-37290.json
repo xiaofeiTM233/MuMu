@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "a560e962-acd9-43c6-9eea-a92908bf8143",
+      "code": "1274144",
+      "title": "MuMuPlayer (Windows) V5.11.0",
+      "url": "//www.mumuplayer.com/20251202/37290_1274144.html",
+      "showtime": 1764646320000,
+      "updateTime": 1764646409000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Azur Lane\".</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Azur Lane\".</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Azur Lane\".</p>"
+      }
+    },
+    {
       "id": "85ed1c1b-b214-4d6c-b1e0-ee0b27f8cd0c",
       "code": "1273218",
       "title": "MuMuPlayer (Windows) V5.10.4",
@@ -1228,5 +1258,5 @@
       }
     }
   ],
-  "version": "1273218"
+  "version": "1274144"
 }

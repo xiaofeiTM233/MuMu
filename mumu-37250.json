@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "bc6cb011-7e36-4896-915d-fab49a2580e3",
+      "code": "1274137",
+      "title": "MuMuPlayer (Windows) V5.11.0",
+      "url": "//www.mumuplayer.com/20251202/37250_1274137.html",
+      "showtime": 1764645840000,
+      "updateTime": 1764645963000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《碧蓝航线》等遊戲的體驗；</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《碧蓝航线》等遊戲的體驗；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《碧蓝航线》等遊戲的體驗；</p>"
+      }
+    },
+    {
       "id": "810cb7d2-1d56-4dad-8764-5bb6da53ec79",
       "code": "1273221",
       "title": "MuMuPlayer (Windows) V5.10.4",
@@ -466,5 +496,5 @@
       }
     }
   ],
-  "version": "1273221"
+  "version": "1274137"
 }
