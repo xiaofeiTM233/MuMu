@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "b192058d-9f5a-451f-ba54-95b207618663",
+      "code": "1274610",
+      "title": "[MuMu模拟器] 版本：5.12.0",
+      "url": "//mumu.163.com/20251204/38646_1274610.html",
+      "showtime": 1764734400000,
+      "updateTime": 1764804360000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "[全新功能] ●新增自动切换键位功能，在《火影忍者》中可根据场景智能切换键位方案； ●新增闪电启动功能，可显著提升《火影忍者》《金铲铲之战》等游戏启动速度； [体验优化] ●修复了部分已知问题；",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "17e5ee4d-dd16-42d8-acd1-79d50bf3d78b",
       "code": "1274204",
       "title": "[MuMu模拟器] 版本：5.10.3",
@@ -3325,5 +3349,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1274204"
+  "version": "1274610"
 }

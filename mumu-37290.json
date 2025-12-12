@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "8f478d41-37d5-4d40-a706-e6e926d23586",
+      "code": "1275349",
+      "title": "MuMuPlayer (Windows) V5.12.1",
+      "url": "//www.mumuplayer.com/20251208/37290_1275349.html",
+      "showtime": 1764921660000,
+      "updateTime": 1765180965000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the app experience of \"Google Calendar\".</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the app experience of \"Google Calendar\".</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the app experience of \"Google Calendar\".</p>"
+      }
+    },
+    {
       "id": "a560e962-acd9-43c6-9eea-a92908bf8143",
       "code": "1274144",
       "title": "MuMuPlayer (Windows) V5.11.0",
@@ -1258,5 +1288,5 @@
       }
     }
   ],
-  "version": "1274144"
+  "version": "1275349"
 }

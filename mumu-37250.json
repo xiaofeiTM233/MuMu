@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "3e1e9d06-c4e0-47b2-9dcc-5db89ae7800d",
+      "code": "1275354",
+      "title": "MuMuPlayer (Windows) V5.12.1",
+      "url": "//www.mumuplayer.com/20251208/37250_1275354.html",
+      "showtime": 1764921960000,
+      "updateTime": 1765181272000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《Google Calendar》等 App 的體驗；</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《Google Calendar》等 App 的體驗；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《Google Calendar》等 App 的體驗；</p>"
+      }
+    },
+    {
       "id": "bc6cb011-7e36-4896-915d-fab49a2580e3",
       "code": "1274137",
       "title": "MuMuPlayer (Windows) V5.11.0",
@@ -496,5 +526,5 @@
       }
     }
   ],
-  "version": "1274137"
+  "version": "1275354"
 }
