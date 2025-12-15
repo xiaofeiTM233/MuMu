@@ -1,6 +1,156 @@
 {
   "data": [
     {
+      "id": "0c52e668-f0ec-4c46-8a67-4d51f45a49ae",
+      "code": "1276541",
+      "title": "MuMuPlayer (macOS) V1.8.5",
+      "url": "//www.mumuplayer.com/tw/mac/update/20251215/41745_1276541.html",
+      "showtime": 1765422660000,
+      "updateTime": 1765768319000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>"
+      }
+    },
+    {
+      "id": "d2d494e3-e414-4349-a3f6-2bfba54e937a",
+      "code": "1276540",
+      "title": "MuMuPlayer (macOS) V1.8.4",
+      "url": "//www.mumuplayer.com/tw/mac/update/20251215/41745_1276540.html",
+      "showtime": 1764817800000,
+      "updateTime": 1765768247000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>"
+      }
+    },
+    {
+      "id": "637cbbe4-3fbe-41ae-bdce-417b3331c1b3",
+      "code": "1276538",
+      "title": "MuMuPlayer (macOS) V1.8.3",
+      "url": "//www.mumuplayer.com/tw/mac/update/20251215/41745_1276538.html",
+      "showtime": 1764212880000,
+      "updateTime": 1765768210000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>"
+      }
+    },
+    {
+      "id": "63ebe430-09ff-4c20-a1d9-302f22d443e4",
+      "code": "1276537",
+      "title": "MuMuPlayer (macOS) V1.8.1",
+      "url": "//www.mumuplayer.com/tw/mac/update/20251215/41745_1276537.html",
+      "showtime": 1763521680000,
+      "updateTime": 1765768128000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span> 優化了鍵鼠操控體驗。</p>\n<p><span class=\"desc_dot\">●</span> 優化了《Solo Leveling:Arise》的遊戲體驗。</p>\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p><span class=\"desc_dot\">●</span> 優化了鍵鼠操控體驗。</p>\n<p><span class=\"desc_dot\">●</span> 優化了《Solo Leveling:Arise》的遊戲體驗。</p>\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題。</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p><span class=\"desc_dot\">●</span> 優化了鍵鼠操控體驗。</p>\n<p><span class=\"desc_dot\">●</span> 優化了《Solo Leveling:Arise》的遊戲體驗。</p>\n<p><span class=\"desc_dot\">●</span> 修復了部分已知問題。</p>"
+      }
+    },
+    {
+      "id": "4bf40a44-6bb9-433d-80e1-9a1828b14357",
+      "code": "1276536",
+      "title": "MuMuPlayer (macOS) V1.7.1",
+      "url": "//www.mumuplayer.com/tw/mac/update/20251215/41745_1276536.html",
+      "showtime": 1761620700000,
+      "updateTime": 1765768088000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>",
+      "type": 1,
+      "ckName": "pro mac版",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p><span class=\"desc_dot\">●</span>  修復了部分已知問題。</p>"
+      }
+    },
+    {
       "id": "a192300d-f9a4-4b8e-9749-734138dcca5f",
       "code": "1266600",
       "title": "MuMuPlayer (macOS) V1.6.40",
@@ -133,5 +283,5 @@
       }
     }
   ],
-  "version": "1266600"
+  "version": "1276541"
 }
