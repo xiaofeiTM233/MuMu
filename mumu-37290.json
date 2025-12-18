@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "49794d6a-2106-44a5-9c45-7483b939017a",
+      "code": "1277068",
+      "title": "MuMuPlayer (Windows) V5.13.1",
+      "url": "//www.mumuplayer.com/20251217/37290_1277068.html",
+      "showtime": 1765523520000,
+      "updateTime": 1765955876000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[New Feature]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported searching for games on the desktop of Android device! [Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the display style of App Center;</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed the issue where controller buttons occasionally become unresponsive;</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Azur Lane\".</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[New Feature]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported searching for games on the desktop of Android device! [Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the display style of App Center;</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed the issue where controller buttons occasionally become unresponsive;</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Azur Lane\".</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[New Feature]</p>\n\n<p><span class=\"desc_dot\">●</span> Supported searching for games on the desktop of Android device! [Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the display style of App Center;</p>\n\n<p><span class=\"desc_dot\">●</span> Fixed the issue where controller buttons occasionally become unresponsive;</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Azur Lane\".</p>"
+      }
+    },
+    {
       "id": "8f478d41-37d5-4d40-a706-e6e926d23586",
       "code": "1275349",
       "title": "MuMuPlayer (Windows) V5.12.1",
@@ -1288,5 +1318,5 @@
       }
     }
   ],
-  "version": "1275349"
+  "version": "1277068"
 }

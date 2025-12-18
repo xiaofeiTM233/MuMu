@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "4fbe061a-b06f-4e04-b948-2e6102cbf89a",
+      "code": "1277071",
+      "title": "MuMuPlayer (Windows) V5.13.1",
+      "url": "//www.mumuplayer.com/20251217/37250_1277071.html",
+      "showtime": 1765523880000,
+      "updateTime": 1765956201000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 支援在安卓裝置桌面搜尋遊戲！ [體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了 App Center 的顯示樣式；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分情況下手把按鍵失效問題；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《碧藍航線》的遊戲體驗。</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 支援在安卓裝置桌面搜尋遊戲！ [體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了 App Center 的顯示樣式；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分情況下手把按鍵失效問題；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《碧藍航線》的遊戲體驗。</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[全新功能]</p>\n\n<p><span class=\"desc_dot\">●</span> 支援在安卓裝置桌面搜尋遊戲！ [體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了 App Center 的顯示樣式；</p>\n\n<p><span class=\"desc_dot\">●</span> 修復了部分情況下手把按鍵失效問題；</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《碧藍航線》的遊戲體驗。</p>"
+      }
+    },
+    {
       "id": "3e1e9d06-c4e0-47b2-9dcc-5db89ae7800d",
       "code": "1275354",
       "title": "MuMuPlayer (Windows) V5.12.1",
@@ -526,5 +556,5 @@
       }
     }
   ],
-  "version": "1275354"
+  "version": "1277071"
 }
