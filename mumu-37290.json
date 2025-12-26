@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "be2e611d-0fbc-43ef-a6b9-f47d2d23c3c2",
+      "code": "1278854",
+      "title": "MuMuPlayer (Windows) V5.13.4",
+      "url": "//www.mumuplayer.com/20251226/37290_1278854.html",
+      "showtime": 1766659260000,
+      "updateTime": 1766745733000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Blue Archive\".</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Blue Archive\".</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Blue Archive\".</p>"
+      }
+    },
+    {
       "id": "49794d6a-2106-44a5-9c45-7483b939017a",
       "code": "1277068",
       "title": "MuMuPlayer (Windows) V5.13.1",
@@ -1318,5 +1348,5 @@
       }
     }
   ],
-  "version": "1277068"
+  "version": "1278854"
 }

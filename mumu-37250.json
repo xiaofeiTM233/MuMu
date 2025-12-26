@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "61f4b086-1f80-4799-858e-df925ce0b01b",
+      "code": "1278858",
+      "title": "MuMuPlayer (Windows) V5.13.4",
+      "url": "//www.mumuplayer.com/20251226/37250_1278858.html",
+      "showtime": 1766659380000,
+      "updateTime": 1766745866000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《蔚蓝档案》的遊戲體驗；</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《蔚蓝档案》的遊戲體驗；</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[體驗優化]</p>\n\n<p><span class=\"desc_dot\">●</span> 優化了《蔚蓝档案》的遊戲體驗；</p>"
+      }
+    },
+    {
       "id": "4fbe061a-b06f-4e04-b948-2e6102cbf89a",
       "code": "1277071",
       "title": "MuMuPlayer (Windows) V5.13.1",
@@ -556,5 +586,5 @@
       }
     }
   ],
-  "version": "1277071"
+  "version": "1278858"
 }
