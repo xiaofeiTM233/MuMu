@@ -1,6 +1,66 @@
 {
   "data": [
     {
+      "id": "cd246ce7-9f7a-47a8-b43b-1114e5c4341e",
+      "code": "1279645",
+      "title": "MuMuPlayer (Windows) V5.14.3",
+      "url": "//www.mumuplayer.com/20251231/37290_1279645.html",
+      "showtime": 1767161520000,
+      "updateTime": 1767165167000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Destiny: Rising\".</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v1",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Destiny: Rising\".</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Destiny: Rising\".</p>"
+      }
+    },
+    {
+      "id": "5d6f79a8-dcb6-4464-9821-67d6770a1d68",
+      "code": "1278856",
+      "title": "MuMuPlayer (Windows) V5.14.0",
+      "url": "//www.mumuplayer.com/20251226/37290_1278856.html",
+      "showtime": 1766745720000,
+      "updateTime": 1766975023000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the keyboard & mouse and gamepad experience.</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the keyboard &amp; mouse and gamepad experience.</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the keyboard &amp; mouse and gamepad experience.</p>"
+      }
+    },
+    {
       "id": "be2e611d-0fbc-43ef-a6b9-f47d2d23c3c2",
       "code": "1278854",
       "title": "MuMuPlayer (Windows) V5.13.4",
@@ -1348,5 +1408,5 @@
       }
     }
   ],
-  "version": "1278854"
+  "version": "1279645"
 }
