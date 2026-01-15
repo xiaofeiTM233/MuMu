@@ -1,6 +1,36 @@
 {
   "data": [
     {
+      "id": "aa49ef18-f6bf-476c-95ae-b9dbac60188f",
+      "code": "1282002",
+      "title": "MuMuPlayer (Windows) V5.15.2",
+      "url": "//www.mumuplayer.com/20260115/37290_1282002.html",
+      "showtime": 1768294920000,
+      "updateTime": 1768467928000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the display entry of the Feedback function in the main window.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the functional experience of Operation Recorder.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Chaos Zero Nightmare\" and \"3DMark — The Gamer's BenchmarkX\".</p>",
+      "type": 1,
+      "ckName": "安卓11更新日志",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v2",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [
+        "45d14064-4078-407f-a104-f38f0f688ce4"
+      ],
+      "customValues": [
+        "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the display entry of the Feedback function in the main window.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the functional experience of Operation Recorder.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Chaos Zero Nightmare\" and \"3DMark — The Gamer's BenchmarkX\".</p>"
+      ],
+      "customAttrInfos": {
+        "udf3": "<p>[Experience Optimization]</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the display entry of the Feedback function in the main window.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the functional experience of Operation Recorder.</p>\n\n<p><span class=\"desc_dot\">●</span> Optimized the gaming experience of \"Chaos Zero Nightmare\" and \"3DMark — The Gamer's BenchmarkX\".</p>"
+      }
+    },
+    {
       "id": "cd246ce7-9f7a-47a8-b43b-1114e5c4341e",
       "code": "1279645",
       "title": "MuMuPlayer (Windows) V5.14.3",
@@ -1408,5 +1438,5 @@
       }
     }
   ],
-  "version": "1279645"
+  "version": "1282002"
 }
