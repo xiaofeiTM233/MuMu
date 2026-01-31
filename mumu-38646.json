@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": "fdbdaefb-36cd-4671-b2f1-da521162f9b5",
+      "code": "1284453",
+      "title": "[MuMu模拟器] 版本：5.21.1",
+      "url": "//mumu.163.com/20260129/38646_1284453.html",
+      "showtime": 1769662020000,
+      "updateTime": 1769662323000,
+      "author": "",
+      "imageFileId": "",
+      "imageUrl": null,
+      "imageUrls": "",
+      "redirectUrl": "",
+      "comment": "[全新功能]\n● 新增了掌上MuMu远控功能！可更便捷地管理安卓设备；\n[体验优化]\n● 优化了《明日方舟：终末地》、《天下：万象》的游戏体验；\n● 修复了部分场景下安卓设备删除失败的问题；",
+      "type": 1,
+      "ckName": "MUMU模拟器12",
+      "shortTitle": "",
+      "subTitle": "",
+      "latestVersion": "v3",
+      "resourceUrls": null,
+      "resourceInfos": null,
+      "customNameIds": [],
+      "customValues": [],
+      "customAttrInfos": {}
+    },
+    {
       "id": "6b75824a-4e31-44ad-a01d-059a1b46de10",
       "code": "1276526",
       "title": "[MuMu模拟器] 版本：5.13.0",
@@ -3373,5 +3397,5 @@
       "customAttrInfos": {}
     }
   ],
-  "version": "1276526"
+  "version": "1284453"
 }
